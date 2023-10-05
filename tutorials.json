@@ -20,8 +20,8 @@
       "discover",
       "learn"
     ],
-    "category": "Contribute",
-    "imageUrl": "onyxiaImgUrl",
+    "category": "best practices",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "articleUrl": {
       "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/CONTRIBUTING.md",
       "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/CONTRIBUTING.md",
