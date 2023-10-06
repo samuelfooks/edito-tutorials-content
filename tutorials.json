@@ -20,7 +20,7 @@
       "discover",
       "learn"
     ],
-    "category": "best practices",
+    "category": "discover EDITO",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "articleUrl": {
       "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/CONTRIBUTING.md",
@@ -39,829 +39,153 @@
       "it": "Presentazione dei grandi principi del Datalab",
       "en": "Introducing the main principles of the Datalab"
     },
-    "authors": [
-      "Inseefrlab"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover the datalab",
-    "imageUrl": "onyxiaImgUrl",
-    "articleUrl": {
-      "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/principles.html",
-      "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/principles.html",
-      "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/principles.html"
-    }
-  },
-  {
-    "name": {
-      "fr": "Premiers pas avec le Datalab",
-      "it": "Primi passi con il Datalab",
-      "en": "Getting started with the Datalab"
-    },
-    "abstract": {
-      "fr": "Visite guid\u00e9e du Datalab",
-      "it": "Visita guidata del Datalab",
-      "en": "A guided tour of the Datalab"
-    },
-    "authors": [
-      "Inseefrlab"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover the datalab",
-    "imageUrl": "onyxiaImgUrl",
-    "articleUrl": {
-      "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/discover.html",
-      "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/discover.html",
-      "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/discover.html"
-    }
-  },
-  {
-    "name": {
-      "fr": "Contr\u00f4le de version",
-      "it": "Controllo di versione",
-      "en": "Version control"
-    },
-    "abstract": {
-      "fr": "Versionner son code avec Git sur le Datalab",
-      "it": "Versionare il tuo codice con il Datalab",
-      "en": "Version your code with Git on the Datalab"
-    },
-    "authors": [
-      "Inseefrlab"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover the datalab",
-    "imageUrl": "onyxiaImgUrl",
-    "articleUrl": {
-      "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/version-control.html",
-      "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/version-control.html",
-      "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/version-control.html"
-    }
-  },
-  {
-    "name": {
-      "fr": "Stockage de donn\u00e9es",
-      "it": "Archivazione dei dati",
-      "en": "Data storage"
-    },
-    "abstract": {
-      "fr": "Stocker des donn\u00e9es sur MinIO et les utiliser dans des services sur le Datalab",
-      "it": "Archiviare dati su MinIO e utilizzarli nei servizi del Datalab",
-      "en": "Store data on MinIO and use it in services on the Datalab"
-    },
-    "authors": [
-      "Inseefrlab"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover the datalab",
-    "imageUrl": "onyxiaImgUrl",
-    "articleUrl": {
-      "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/storage.html",
-      "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/storage.html",
-      "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/storage.html"
-    }
-  },
-  {
-    "name": {
-      "fr": "Gestion des secrets",
-      "it": "Gestione dei segreti",
-      "en": "Managing secrets"
-    },
-    "abstract": {
-      "fr": "Utiliser des secrets comme variables d\u2019environnement dans les services du Datalab",
-      "it": "Utilizzare segreti come variabili d'ambiente nei servizi del Datalab",
-      "en": "Use secrets as environment variables in services on the Datalab"
-    },
-    "authors": [
-      "Inseefrlab"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover the datalab",
-    "imageUrl": "onyxiaImgUrl",
-    "articleUrl": {
-      "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/secrets.html",
-      "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/secrets.html",
-      "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/secrets.html"
-    }
-  },
-  {
-    "name": {
-      "fr": "Configuration des services (WIP)",
-      "it": "Configurazione dei servizi (WIP)",
-      "en": "Services configuration (WIP)"
-    },
-    "abstract": {
-      "fr": "Documentation des diff\u00e9rents param\u00e8tres de configuration d'un service",
-      "it": "Documentazione dei vari parametri di configurazione di un servizio",
-      "en": "Documentation of service configuration parameters"
-    },
-    "authors": [
-      "Inseefrlab"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover the datalab",
-    "imageUrl": "onyxiaImgUrl",
-    "articleUrl": {
-      "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/configure.html",
-      "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/configure.html",
-      "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/configure.html"
-    }
-  },
-  {
-    "name": {
-      "fr": "FuncampR - Grimoire (FR)",
-      "it": "FuncampR - Spellbook (EN - WIP)",
-      "en": "FuncampR - Spellbook (EN - WIP)"
-    },
-    "abstract": {
-      "fr": "Une aventure d'apprentissage vid\u00e9oludique pour le langage statistique R, \u00e0 partager au sein du SSP (et du royaume de Statis). Pour en savoir plus, consulter le site https://funcamp.sspcloud.fr/",
-      "it": "Un'avventura di apprendimento videoludico per il linguaggio statistico R, da condividere all'interno del SSP (e del regno di Statis). Per saperne di pi\u00f9, visita il sito https://funcamp.sspcloud.fr/",
-      "en": "A serious game to learn statistical language R, dedicated to beginners - and gamers :-p. For more information, see https://funcamp.sspcloud.fr/"
-    },
-    "imageUrl": "gameControllerImgUrl",
+    "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+    "category": "discover EDITO",
     "parts": [
       {
-        "name": "icaRius",
+        "name": {
+          "fr": "Premiers pas avec le Datalab",
+          "it": "Primi passi con il Datalab",
+          "en": "Getting started with the Datalab"
+        },
         "abstract": {
-          "fr": "La partie vid\u00e9oludique du FuncampR. Un jeu de r\u00f4le inspir\u00e9 d'un c\u00e9l\u00e8bre jeu vid\u00e9o des ann\u00e9es 1990...",
-          "it": "La parte videoludica di FuncampR. Un gioco di ruolo ispirato a un famoso videogioco degli anni '90...",
-          "en": "The video game part of FuncampR. A RPG inspired by a famous video game from the 1990s ..."
+          "fr": "Visite guid\u00e9e du Datalab",
+          "it": "Visita guidata del Datalab",
+          "en": "A guided tour of the Datalab"
         },
         "authors": [
-          "A. Degorre",
-          {
-            "fr": "communaut\u00e9 Solarus",
-            "it": "Comunit\u00e0 Solarus",
-            "en": "Solarus Community"
-          }
-        ],
-        "contributors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FuncampR",
-            "en": "FuncampR Community"
-          },
-          {
-            "fr": "communaut\u00e9 Solarus",
-            "it": "Comunit\u00e0 Solarus",
-            "en": "Solarus Community"
-          }
+          "Inseefrlab"
         ],
         "types": [
-          {
-            "fr": "Jeu vid\u00e9o",
-            "it": "Videogioco",
-            "en": "Video Game"
-          }
+          "Tutoriel"
         ],
         "tags": [
           "discover",
           "learn"
         ],
-        "category": "training courses with R",
-        "imageUrl": "gameControllerImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/icarius?autoLaunch=true"
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 1",
-          "en": "IgoR Spellbook - Chapter 1",
-          "it": "Grimorio IgoR - Capitolo 1"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 1 : la maison d\u2019icaRius. D\u00e9couverture du grimoire IgoR et de la langue des Runes",
-          "en": "Educational part of FuncampR. Chapter 1: icaRius' home. Discovery of the IgoR Spellbook and the Runes' language",
-          "it": "Parte educativa di FuncampR. Capitolo 1: la casa di IcaRius. Scoperta del grimorio IgoR e della lingua delle Rune"
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "discover"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre1\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap1\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter1\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=Spellbook-Chap1\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter1\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=Spellbook-Chap1\u00bb"
+        "category": "discover EDITO",
+        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "articleUrl": {
+          "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/discover.html",
+          "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/discover.html",
+          "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/discover.html"
         }
       },
       {
         "name": {
-          "fr": "Grimoire IgoR - Chapitre 2",
-          "en": "IgoR Spellbook - Chapter 2",
-          "it": "Grimorio IgoR - Capitolo 2"
+          "fr": "Contr\u00f4le de version",
+          "it": "Controllo di versione",
+          "en": "Version control"
         },
         "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 2 : la poule pondeuse. Dans le village de Kokoro, icaRius aide la fermi\u00e8re \u00e0 recomposer le livre des pontes...",
-          "it": "Parte educativa di FuncampR. Capitolo 2: la gallina delle uova d'oro. Nel villaggio di Kokoro, IcaRius aiuta la contadina a ricomporre il libro delle uova...",
-          "en": "FuncampR educational part. Chapter 2: the laying hen. In the village of Kokoro, icaRius helps the farmer to recompose the egg-laying book..."
+          "fr": "Versionner son code avec Git sur le Datalab",
+          "it": "Versionare il tuo codice con il Datalab",
+          "en": "Version your code with Git on the Datalab"
         },
         "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
+          "Inseefrlab"
         ],
         "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre2\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap2\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter2\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap2\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter2\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap2\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 3",
-          "en": "IgoR Spellbook - Chapter 3",
-          "it": "Grimorio IgoR - Capitolo 3"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 3 :  le village de GrissGrass. Le chef du village demande \u00e0 icaRius de trouver quelle est l\u2019exploitation la plus productive en herbe de Mandragore.",
-          "en": "FuncampR educational part. Chapter 3: the village of GrissGrass. The village chief asks icaRius to find the most productive Mandrake farm.",
-          "it": "Parte educativa di FuncampR. Capitolo 3: il villaggio di GrissGrass. Il capo del villaggio chiede a IcaRius di scoprire quale sia l'azienda pi\u00f9 produttiva nell'erba di Mandragora."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre3\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap3\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter3\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap3\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter3\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap3\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 4",
-          "en": "IgoR Spellbook - Chapter 4",
-          "it": "Grimorio IgoR - Capitolo 4"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 4 : le secret de la culture de Mandragore. IcaRius doit retrouver la recette de la culture de la Mandragore.",
-          "en": "FuncampR educational part. Chapter 4: The Secret of Mandrake Culture. IcaRius must find the recipe for the culture of the Mandrake.",
-          "it": "Parte educativa di FuncampR. Capitolo 4: il segreto della coltivazione della Mandragora. IcaRius deve trovare la ricetta per la coltivazione della Mandragora."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre4\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap4\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter4\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap4\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter4\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap4\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 5",
-          "en": "IgoR Spellbook - Chapter 5",
-          "it": "Grimorio IgoR - Capitolo 5"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 5 :  le cuistot Batreb. Pour lib\u00e9rer Essesp\u00e9us dans le ch\u00e2teau de Statis, icaRius doit d\u2019abord obtenir la confiance du cuistot Batreb.",
-          "en": "FuncampR educational part. Chapter 5: the cook Batreb. To free Essespeus in Statis Castle, icaRius must first gain the trust of cook Batreb.",
-          "it": "Parte educativa di FuncampR. Capitolo 5: lo chef Batreb. Per liberare Essesp\u00e9us nel castello di Statis, IcaRius deve prima guadagnare la fiducia dello chef Batreb."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre5\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap5\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter5\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap5\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter5\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap5\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 6",
-          "en": "IgoR Spellbook - Chapter 6",
-          "it": "Grimorio IgoR - Capitolo 6"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 6 : la fake news. Essesp\u00e9us et icaRius vont cr\u00e9er une Fake News pour tromper les arm\u00e9es de SaSSoS.",
-          "en": "FuncampR educational part. Chapter 6: fake news. Essesp\u00e9us and icaRius create a Fake News to deceive the armies of SaSSoS.",
-          "it": "Parte educativa di FuncampR. Capitolo 6: la fake news. Essesp\u00e9us e IcaRius creeranno una fake news per ingannare le armate di SaSSoS."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre6\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap6\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter6\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap6\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter6\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap6\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 7",
-          "en": "IgoR Spellbook - Chapter 7",
-          "it": "Grimorio IgoR - Capitolo 7"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 7 (optionnel): le labyrinthe. Le Mage Delagarde propose \u00e0 icaRius un d\u00e9fi pour obtenir les bonnes directions dans le labyrinthe.",
-          "en": "FuncampR educational part. Chapter 7 (optional): the labyrinth. Mage Delagarde offers icaRius a challenge to get the right directions in the labyrinth.",
-          "it": "Parte educativa di FuncampR. Capitolo 7 (opzionale): il labirinto. Il Mago Delagarde propone a IcaRius una sfida per ottenere le giuste direzioni nel labirinto"
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre7\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap7\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter7\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap7\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter7\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap7\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 8",
-          "en": "IgoR Spellbook - Chapter 8",
-          "it": "Grimorio IgoR - Capitolo 8"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 8: la plume d\u2019IgoR. Pour soulever la pierre qui bloque le passage, icaRius doit apprendre de nouveaux sortil\u00e8ges.",
-          "en": "FuncampR educational part. Chapter 8: IgoR's Feather. To lift the stone blocking the passage, icaRius must learn new spells.",
-          "it": "Parte educativa di FuncampR. Capitolo 8: la piuma di IgoR. Per sollevare la pietra che blocca il passaggio, IcaRius deve imparare nuovi incantesimi."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre8\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap8\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter8\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap8\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter8\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap8\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 9",
-          "en": "IgoR Spellbook - Chapter 9",
-          "it": "Grimorio IgoR - Capitolo 9"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 9: le village de Sandia. Mam\u2019Grouxi narre les innombrables naissances qu\u2019elle a vu au fil des ans (des si\u00e8cles?).",
-          "en": "FuncampR educational part. Chapter 9: the village of Sandia. Mam\u2019Grouxi recounts the countless births she has seen over the years.",
-          "it": "Parte educativa di FuncampR. Capitolo 9: il villaggio di Sandia. Mam'Grouxi racconta le innumerevoli nascite che ha visto nel corso degli anni (secoli?)."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre9\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap9\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter9\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap9\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter9\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap9\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 10",
-          "en": "IgoR Spellbook - Chapter 10",
-          "it": "Grimorio IgoR - Capitolo 10"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 10: La porte de sortie - Save Me. Dans ses p\u00e9r\u00e9grinations, icaRius se trouve pris au pi\u00e8ge dans une salle de l'impossible",
-          "en": "FuncampR educational part. Chapter 10: Exit Door - Save Me. In his wanderings, icaRius finds himself trapped in an Impossible Room.",
-          "it": "Parte educativa di FuncampR. Capitolo 10: La porta d'uscita - Salvami. Nelle sue avventure, IcaRius si trova intrappolato in una stanza dell'impossibile"
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre10\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap10\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter10\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap10\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter10\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap10\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 11",
-          "en": "IgoR Spellbook - Chapter 11",
-          "it": "Grimorio IgoR - Capitolo 11"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 11: Codez-le une fois. L'automate TeoC enseigne \u00e0 icaRius la Voie du Reproductible",
-          "en": "FuncampR educational part. Chapter 11: Code It Once. The TeoC automaton teaches icaRius the Way of the Reproducible.",
-          "it": "Parte educativa di FuncampR. Capitolo 11: Codificalo una volta. L'automate TeoC insegna a IcaRius la Via del Riproducibile."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre11\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap11\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter11\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap11\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter11\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap11\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 12",
-          "en": "IgoR Spellbook - Chapter 12",
-          "it": "Grimorio IgoR - Capitolo 12"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 12: De l\u2019oxyg\u00e8ne documentaire. Rencontre d'un dr\u00f4le d\u2019oiseau, FebeleR, f\u00e9ru de litt\u00e9rature statisienne et de grimoires...",
-          "en": "FuncampR educational part. Chapter 12: Breathe and document. Meeting with a strange bird, FebeleR, fond of Statisian literature and grimoires ...",
-          "it": "Parte educativa di FuncampR. Capitolo 12: Di ossigeno documentario. Incontro con un uccello strano, FebeleR, appassionato di letteratura statistica e grimori..."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre12\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap12\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter12\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap12\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter12\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap12\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire IgoR - Chapitre 13",
-          "en": "IgoR Spellbook - Chapter 13",
-          "it": "Grimorio IgoR - Capitolo 13"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Chapitre 13: l'histoire sans fin. La gueRnouille Asa apprend \u00e0 icaRius \u00e0 \u00e9crire lui-m\u00eame la fin de l'histoire",
-          "en": "FuncampR educational part. Chapter 13: The NeveRending Story. Asa fRog teaches icaRius to write himself the end of the story",
-          "it": "Parte educativa di FuncampR. Capitolo 13: la storia senza fine. La rana Asa insegna a IcaRius a scrivere da solo la fine della storia."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel R",
-            "it": "Tutorial R",
-            "en": "R Tutorial"
-          }
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses with R",
-        "deploymentUrl": {
-          "fr": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapitre13\u00bb&onyxia.friendlyName=\u00abGrimoire-Chap13\u00bb",
-          "en": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter13\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap13\u00bb",
-          "it": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/grimoire?autoLaunch=true&grimoire.chapitre=\u00abchapter13\u00bb&grimoire.quete=\u00abSpellbook_IGoR\u00bb&onyxia.friendlyName=\u00abSpellbook-Chap13\u00bb"
-        }
-      },
-      {
-        "name": {
-          "fr": "Grimoire - Neverending",
-          "en": "Spellbook - Neverending",
-          "it": "Grimorio - Neverending"
-        },
-        "abstract": {
-          "fr": "Partie p\u00e9dagogique du FuncampR. Le parchemin pour \u00e9crire soi-m\u00eame le chapitre 13 et la fin de l'histoire d'icaRius.",
-          "en": "FuncampR educational part. The scroll on which icaRius writes chapter 13 and the end of the  story.",
-          "it": "Parte educativa di FuncampR. Il pergamino per scrivere da soli il capitolo 13 e la fine della storia di IcaRius."
-        },
-        "authors": [
-          {
-            "fr": "Communaut\u00e9 FuncampR",
-            "it": "Comunit\u00e0 FunCampR",
-            "en": "FuncampR Community"
-          }
-        ],
-        "types": [
-          {
-            "fr": "Tutoriel Rstudio",
-            "en": "Rstudio Tutorial",
-            "it": "Tutorial RStudio"
-          }
+          "Tutoriel"
         ],
         "tags": [
           "discover",
           "learn"
         ],
-        "category": "training courses with R",
-        "imageUrl": "neverendingImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/inseefrlab-helm-charts-trainings/neverending?autoLaunch=true&onyxia.friendlyName=\u00abneveRending\u00bb"
-      }
-    ]
-  },
-  {
-    "name": "Parcours R",
-    "abstract": "Parcours de formation \u00e0 R du p\u00f4le minist\u00e9riel MTES-MCTRCT",
-    "imageUrl": "rSvgUrl",
-    "parts": [
-      {
-        "name": "1. D\u00e9couvrir R et RStudio",
-        "abstract": "D\u00e9couvrir le fonctionnement de R, Aborder la dimension modulaire du logiciel, S\u2019approprier l\u2019interface graphique du logiciel, \u00catre en capacit\u00e9 d\u2019importer dans R un fichier CSV et de r\u00e9aliser des calculs statistiques simples (somme, moyenne, table des fr\u00e9quences)",
-        "authors": [
-          "Thierry Zorn",
-          "Murielle Lethrosne",
-          "Vivien Roussez",
-          "Pascal Irz"
-        ],
-        "types": [
-          "Tutoriel R"
-        ],
-        "tags": [
-          "discover"
-        ],
-        "category": "training courses with R",
-        "imageUrl": "grenouilleImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M1%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_socle_introduction-4.2.1%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_scripts%2Fformation%2Finit_script_formation.sh%C2%BB",
-        "articleUrl": "https://mtes-mct.github.io/parcours_r_socle_introduction/"
+        "category": "discover EDITO",
+        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "articleUrl": {
+          "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/version-control.html",
+          "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/version-control.html",
+          "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/version-control.html"
+        }
       },
       {
-        "name": "2. Pr\u00e9parer ses donn\u00e9es avec R et le Tidyverse",
-        "abstract": "\u00catre en capacit\u00e9 d\u2019explorer les donn\u00e9es, de les comprendre, de les structurer, de les croiser et les enrichir avec des donn\u00e9es externes pour les pr\u00e9parer \u00e0 des traitements statistiques. La pr\u00e9paration des donn\u00e9es est une \u00e9tape fondamentale pour faciliter la r\u00e9alisation des analyses statistiques",
+        "name": {
+          "fr": "Stockage de donn\u00e9es",
+          "it": "Archivazione dei dati",
+          "en": "Data storage"
+        },
+        "abstract": {
+          "fr": "Stocker des donn\u00e9es sur MinIO et les utiliser dans des services sur le Datalab",
+          "it": "Archiviare dati su MinIO e utilizzarli nei servizi del Datalab",
+          "en": "Store data on MinIO and use it in services on the Datalab"
+        },
         "authors": [
-          "Ma\u00ebl Theuli\u00e8re",
-          "Bruno Terseur"
+          "Inseefrlab"
         ],
         "types": [
-          "Tutoriel R"
+          "Tutoriel"
         ],
         "tags": [
+          "discover",
           "learn"
         ],
-        "category": "training courses with R",
-        "imageUrl": "coverImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M2%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_socle_preparation_des_donnees-4.2.1%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_scripts%2Fformation%2Finit_script_formation.sh%C2%BB",
-        "articleUrl": "https://mtes-mct.github.io/parcours_r_socle_preparation_des_donnees/"
+        "category": "discover EDITO",
+        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "articleUrl": {
+          "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/storage.html",
+          "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/storage.html",
+          "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/storage.html"
+        }
       },
       {
-        "name": "3. Statistiques descriptives avec R",
-        "abstract": "Rappels th\u00e9oriques sur les m\u00e9thodes usuelles de statistiques uni- et bi-vari\u00e9es, mise en \u0153uvre avec R, interpr\u00e9tation",
+        "name": {
+          "fr": "Gestion des secrets",
+          "it": "Gestione dei segreti",
+          "en": "Managing secrets"
+        },
+        "abstract": {
+          "fr": "Utiliser des secrets comme variables d\u2019environnement dans les services du Datalab",
+          "it": "Utilizzare segreti come variabili d'ambiente nei servizi del Datalab",
+          "en": "Use secrets as environment variables in services on the Datalab"
+        },
         "authors": [
-          "Sol\u00e8ne Colin",
-          "Vivien Roussez",
-          "Pascal Irz"
+          "Inseefrlab"
         ],
         "types": [
-          "Tutoriel R"
+          "Tutoriel"
         ],
         "tags": [
+          "discover",
           "learn"
         ],
-        "category": "training courses with R",
-        "imageUrl": "pollinisateurImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M3%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_statistiques_descriptives-4.2.1%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_scripts%2Fformation%2Finit_script_formation.sh%C2%BB",
-        "articleUrl": "https://mtes-mct.github.io/parcours_r_module_statistiques_descriptives/"
+        "category": "discover EDITO",
+        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "articleUrl": {
+          "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/secrets.html",
+          "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/secrets.html",
+          "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/secrets.html"
+        }
       },
       {
-        "name": "4. Analyse des donn\u00e9es multi-dimensionnelles avec R",
-        "abstract": "M\u00e9thodologie pour \u00e9valuer, en fonction des caract\u00e9ristiques des donn\u00e9es, la pertinence des m\u00e9thodes usuelles d'analyse multidimensionnelle (ACP, AFC, ACM, CAH). Mise en \u0153uvre avec le package factoMiner. Sorties graphiques avec le package factoextra. Interpr\u00e9tation",
+        "name": {
+          "fr": "Configuration des services (WIP)",
+          "it": "Configurazione dei servizi (WIP)",
+          "en": "Services configuration (WIP)"
+        },
+        "abstract": {
+          "fr": "Documentation des diff\u00e9rents param\u00e8tres de configuration d'un service",
+          "it": "Documentazione dei vari parametri di configurazione di un servizio",
+          "en": "Documentation of service configuration parameters"
+        },
         "authors": [
-          "Vivien Roussez",
-          "Pascal Irz"
+          "Inseefrlab"
         ],
         "types": [
-          "Tutoriel R"
+          "Tutoriel"
         ],
         "tags": [
-          "consolidate"
+          "discover",
+          "learn"
         ],
-        "category": "training courses with R",
-        "imageUrl": "crabeImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M4%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_analyse_multi_dimensionnelles-4.2.1%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_scripts%2Fformation%2Finit_script_formation.sh%C2%BB",
-        "articleUrl": "https://mtes-mct.github.io/parcours_r_module_analyse_multi_dimensionnelles/"
-      },
-      {
-        "name": "5. Valoriser ses donn\u00e9es avec R",
-        "abstract": "Utiliser les outils R pour produire des graphiques avec le package ggplot2. Produire des cartes en utilisant ggplot2 et sf. Produire des tableaux interactifs. Rendre interactifs des graphiques et des cartes",
-        "authors": [
-          "Murielle Lethrosne",
-          "Ma\u00ebl Theuli\u00e8re"
-        ],
-        "types": [
-          "Tutoriel R"
-        ],
-        "tags": [
-          "consolidate"
-        ],
-        "category": "training courses with R",
-        "imageUrl": "renardImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M5%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_datavisualisation-4.2.1%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_scripts%2Fformation%2Finit_script_formation.sh%C2%BB",
-        "articleUrl": "https://mtes-mct.github.io/parcours_r_module_datavisualisation/"
-      },
-      {
-        "name": "7. Analyse spatiale",
-        "abstract": "Introduction aux donn\u00e9es spatiales, lire et \u00e9crire des donn\u00e9es spatiales, manipuler des donn\u00e9s spatiales, cr\u00e9er des cartes.",
-        "authors": [
-          "Murielle Lethrosne",
-          "Ma\u00ebl Theuli\u00e8re"
-        ],
-        "types": [
-          "Tutoriel R"
-        ],
-        "tags": [
-          "consolidate"
-        ],
-        "category": "training courses with R",
-        "imageUrl": "odonateImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%ABParcoursR_M7%C2%BB&service.image.custom.enabled=true&service.image.custom.version=%C2%ABghcr.io%2Fmtes-mct%2Fparcours_r_module_analyse_spatiale-4.2.1%C2%BB&security.allowlist.enabled=false&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FMTES-MCT%2Fparcours-r%2Fmaster%2Finit_scripts%2Fformation%2Finit_script_formation.sh%C2%BB",
-        "articleUrl": "https://mtes-mct.github.io/parcours_r_module_analyse_spatiale/"
+        "category": "discover EDITO",
+        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "articleUrl": {
+          "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/configure.html",
+          "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/configure.html",
+          "en": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/configure.html"
+        }
       }
     ]
   },
@@ -1928,7 +1252,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installPy.sh\u00bb&onyxia.friendlyName=\u00abText_Mining_Python\u00bb"
       },
       {
@@ -2022,7 +1346,7 @@
     "contributors": [
       "Fr\u00e9d\u00e9ric Comte"
     ],
-    "imageUrl": "pythonImgUrl",
+    "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
     "parts": [
       {
         "name": "Virtualisation des donn\u00e9es sur Onyxia",
@@ -2041,7 +1365,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Fopenlab%2F-%2Fraw%2Fmain%2Finit-notebook.sh%C2%BB&onyxia.friendlyName=%C2%ABopenlab%C2%BB"
       }
     ]
@@ -2148,7 +1472,7 @@
       "learn"
     ],
     "category": "training courses in data science",
-    "imageUrl": "pythonImgUrl",
+    "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
     "parts": [
       {
         "name": "Introduction",
@@ -2167,7 +1491,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Foutils_du_datascientist.ipynb\u00bb&onyxia.friendlyName=\u00aboutils\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       },
       {
@@ -2187,7 +1511,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_a_la_data_visualisation.ipynb\u00bb&onyxia.friendlyName=\u00abdata%20visualisation\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       },
       {
@@ -2207,7 +1531,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_au_NLP.ipynb\u00bb&onyxia.friendlyName=\u00abNLP\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       },
       {
@@ -2227,7 +1551,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_au_machine_learning.ipynb\u00bb&onyxia.friendlyName=\u00abML\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       }
     ]
@@ -2328,144 +1652,6 @@
     ]
   },
   {
-    "name": "Funathon 2023",
-    "abstract": "Des tutoriels pour d\u00e9couvrir et pratiquer la data science autour du th\u00e8me 'Du champ \u00e0 l'assiette'",
-    "imageUrl": "dsImgUrl",
-    "parts": [
-      {
-        "name": "150 ans d'agriculture en France",
-        "abstract": "Initiation \u00e0 la dataviz sur s\u00e9ries longues avec Observable.",
-        "authors": [
-          "Inseefrlab"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses in data science",
-        "imageUrl": "observableImgUrl",
-        "articleUrl": "https://github.com/InseeFrLab/funathon2023_sujet1/tree/main",
-        "deploymentUrl": "https://observablehq.com/@francoissemecurbe/le-recensement-agricole-de-1852"
-      },
-      {
-        "name": "Explorer la g\u00e9ographie des cultures agricoles fran\u00e7aises",
-        "abstract": "Initiation \u00e0 l'analyse spatiale et \u00e0 la dataviz avec R et PostGIS",
-        "authors": [
-          "Inseefrlab"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses in data science",
-        "imageUrl": "rSvgUrl",
-        "articleUrl": "https://inseefrlab.github.io/funathon2023_sujet2/",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2023_sujet2%2Fmain%2Finit.sh%C2%BB&onyxia.friendlyName=%C2%ABSujet%202%20Funathon%C2%BB"
-      },
-      {
-        "name": "Explorer les habitudes alimentaires de nos compatriotes",
-        "abstract": "Initiation \u00e0 l'analyse exploratoire de donn\u00e9es, au clustering et au machine learning avec R ou Python",
-        "authors": [
-          "Inseefrlab"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses in data science",
-        "imageUrl": "dsImgUrl",
-        "parts": [
-          {
-            "name": "Tutoriel en Python",
-            "abstract": "",
-            "authors": [
-              "Inseefrlab"
-            ],
-            "types": [
-              "Tutoriel"
-            ],
-            "tags": [
-              "learn"
-            ],
-            "category": "training courses in data science",
-            "imageUrl": "pythonImgUrl",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2023_sujet3%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABPython%C2%BB"
-          },
-          {
-            "name": "Tutoriel en R",
-            "abstract": "",
-            "authors": [
-              "Inseefrlab"
-            ],
-            "types": [
-              "Tutoriel"
-            ],
-            "tags": [
-              "learn"
-            ],
-            "category": "training courses in data science",
-            "imageUrl": "rSvgUrl",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-r?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2023_sujet3%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABR%C2%BB"
-          }
-        ]
-      },
-      {
-        "name": "Mon application Yuka",
-        "abstract": "Un parcours guid\u00e9 pour cr\u00e9er une application de lecture de code barre \u00e0 la mani\u00e8re de Yuka avec Python.",
-        "authors": [
-          "Inseefrlab"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=false&kubernetes.role=%C2%ABadmin%C2%BB&networking.user.enabled=true&git.cache=%C2%AB36000%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2023_sujet4%2Fmain%2Finit.sh%C2%BB&git.token=%C2%AB%C2%BB&git.repository=%C2%ABhttps%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2023_sujet4.git%C2%BB"
-      },
-      {
-        "name": "Analyse textuelle des commentaires clients de restaurants",
-        "abstract": "Analyse de sentiments \u00e0 partir de commentaires clients scrap\u00e9s sur Trustpilot avec Python.",
-        "authors": [
-          "Inseefrlab"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2023_sujet5%2Fmain%2Finit.sh%C2%BB"
-      },
-      {
-        "name": "A la recherche de l'alimentation perdue",
-        "abstract": "Traitement du langage naturel : rechercher toutes les r\u00e9f\u00e9rences \u00e0 des aliments dans l'oeuvre de Proust.",
-        "authors": [
-          "Inseefrlab"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "learn"
-        ],
-        "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
-        "articleUrl": "https://github.com/InseeFrLab/funathon2023_sujet6"
-      }
-    ]
-  },
-  {
     "name": "Appariement de donn\u00e9es individuelles",
     "abstract": "Des tutoriels en Python et en R pour s'initier \u00e0 l'appariement de donn\u00e9es individuelles.",
     "authors": [
@@ -2482,7 +1668,7 @@
       "learn"
     ],
     "category": "training courses in data science",
-    "imageUrl": "pythonImgUrl",
+    "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
     "parts": [
       {
         "name": "Package Record Linkage (Python)",
@@ -2501,7 +1687,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABrecordLinkage%C2%BB"
       },
       {
@@ -2521,7 +1707,7 @@
           "learn"
         ],
         "category": "training courses in data science",
-        "imageUrl": "pythonImgUrl",
+        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABdedupe%C2%BB"
       },
       {
