@@ -30,6 +30,35 @@
   },
   {
     "name": {
+      "fr": "Découvrez la plateforme EDITO en vidéo",
+      "it": "Scopri la piattaforma EDITO in video",
+      "en": "Discover EDITO platform in video"
+    },
+    "abstract": {
+      "fr": "Plusieurs vidéos pour découvrir les fonctionnalités de la plateforme",
+      "it": "Tanti video per scoprire le funzionalità della piattaforma",
+      "en": "Multiple videos to discover the platform functionalities"
+    },
+    "authors": [
+      "Chloé Delpont-Ramat"
+    ],
+    "types": [
+      "Tutoriel"
+    ],
+    "tags": [
+      "discover",
+      "learn"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/PlatformOverview.md",
+      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/PlatformOverview.md",
+      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/PlatformOverview.md"
+    }
+  },
+  {
+    "name": {
       "fr": "Principes du Datalab",
       "it": "Principi del Datalab",
       "en": "Principles of the Datalab"
@@ -188,36 +217,6 @@
         }
       }
     ]
-  },
-  {
-    "name": {
-      "fr": "Utiliser autosubmit dans le datalab",
-      "it": "Utilizza autosubmit nel datalab",
-      "en": "Use autosubmit in the datalab"
-    },
-    "abstract": {
-      "fr": "Comment utiliser le service Jupyterlab-autosubmit-bsc du catalogue de services ModelLab      ",
-      "it": "Come utilizzare il servizio Jupyterlab-autosubmit-bsc dal catalogo dei servizi ModelLab",
-      "en": "How to use the Jupyterlab-autosubmit-bsc service from the ModelLab Service Catalog"
-    },
-    "authors": [
-      "Chloé Delpont-Ramat"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover ModelLab",
-    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-    "articleUrl": {
-      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
-      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
-      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md"
-    },
-    "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/modellab/jupyterlab-autosubmit-bsc?autoLaunch=true"
   },
   {
     "name": "Initiation \u00e0 Python",

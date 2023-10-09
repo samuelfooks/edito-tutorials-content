@@ -113,3 +113,6 @@ To add an init script at the start of a services you need to indicate the script
 - Copy the url.
 - Configure a new service with the init tab field containing the url from S3.
 - Launch the service and check the installation worked.
+
+Following is an init script example to install the Copernicus Marine Client:
+[CopernicusMarineClientInstall.sh](assets/CopernicusMarineClientInstall.sh)
