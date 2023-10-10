@@ -219,6 +219,36 @@
     ]
   },
   {
+    "name": {
+      "fr": "Utiliser autosubmit dans le datalab",
+      "it": "Utilizza autosubmit nel datalab",
+      "en": "Use autosubmit in the datalab"
+    },
+    "abstract": {
+      "fr": "Comment utiliser le service Jupyterlab-autosubmit-bsc du catalogue de services ModelLab",
+      "it": "Come utilizzare il servizio Jupyterlab-autosubmit-bsc dal catalogo dei servizi ModelLab",
+      "en": "How to use the Jupyterlab-autosubmit-bsc service from the ModelLab Service Catalog"
+    },
+    "authors": [
+      "Chloé Delpont-Ramat"
+    ],
+    "types": [
+      "Tutoriel"
+    ],
+    "tags": [
+      "discover",
+      "learn"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
+      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
+      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md"
+    },
+    "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/modellab/jupyterlab-autosubmit-bsc?autoLaunch=true"
+  },
+  {
     "name": "Initiation \u00e0 Python",
     "abstract": "Cours introductif \u00e0 Python : fondamentaux du langage et premi\u00e8res manipulations de donn\u00e9es",
     "authors": [
