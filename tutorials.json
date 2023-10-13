@@ -220,17 +220,18 @@
   },
   {
     "name": {
-      "fr": "Utiliser autosubmit dans le datalab",
-      "it": "Utilizza autosubmit nel datalab",
-      "en": "Use autosubmit in the datalab"
+      "fr": "Utiliser Autosubmit dans EDITO",
+      "it": "Utilizza Autosubmit in EDITO",
+      "en": "Use Autosubmit in EDITO"
     },
     "abstract": {
-      "fr": "Comment utiliser le service Jupyterlab-autosubmit-bsc du catalogue de services ModelLab",
-      "it": "Come utilizzare il servizio Jupyterlab-autosubmit-bsc dal catalogo dei servizi ModelLab",
-      "en": "How to use the Jupyterlab-autosubmit-bsc service from the ModelLab Service Catalog"
+      "fr": "Comment se connecter aux HPC du Barcelona Super Computer",
+      "it": "Come connettersi all'HPC della Barcelona Super Computer",
+      "en": "How to connect to Barcelona Super Computer' HPCs"
     },
     "authors": [
-      "EDITO"
+      "EDITO",
+      "BSC"
     ],
     "types": [
       "Tutoriel"
@@ -241,12 +242,67 @@
     ],
     "category": "discover EDITO",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-    "articleUrl": {
-      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
-      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
-      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md"
-    },
-    "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/modellab/jupyterlab-autosubmit-bsc?autoLaunch=true"
+    "parts": [
+      {
+        "name": {
+          "fr": "Utiliser Autosubmit dans le datalab",
+          "it": "Utilizza Autosubmit nel datalab",
+          "en": "Use Autosubmit in the datalab"
+        },
+        "abstract": {
+          "fr": "Comment utiliser le service Jupyterlab-autosubmit-bsc du catalogue de services ModelLab",
+          "it": "Come utilizzare il servizio Jupyterlab-autosubmit-bsc dal catalogo dei servizi ModelLab",
+          "en": "How to use the Jupyterlab-autosubmit-bsc service from the ModelLab Service Catalog"
+        },
+        "authors": [
+          "EDITO"
+        ],
+        "types": [
+          "Tutoriel"
+        ],
+        "tags": [
+          "discover",
+          "learn"
+        ],
+        "category": "discover EDITO",
+        "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+        "articleUrl": {
+          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
+          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
+          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md"
+        },
+        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/modellab/jupyterlab-autosubmit-bsc?autoLaunch=true"
+      },
+      {
+        "name": {
+          "fr": "Documentation d'Autosubmit",
+          "it": "Documentazione di Autosubmit",
+          "en": "Autosubmit documentation"
+        },
+        "abstract": {
+          "fr": "Documentation officielle d'Autosubmit",
+          "it": "Documentazione ufficiale di Autosubmit",
+          "en": "Autosubmit official documentation"
+        },
+        "authors": [
+          "BSC"
+        ],
+        "types": [
+          "Tutoriel"
+        ],
+        "tags": [
+          "discover",
+          "learn"
+        ],
+        "category": "discover EDITO",
+        "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
+        "articleUrl": {
+          "fr": "https://autosubmit.readthedocs.io/en/master/",
+          "it": "https://autosubmit.readthedocs.io/en/master/",
+          "en": "https://autosubmit.readthedocs.io/en/master/"
+        }
+      }
+    ]
   },
   {
     "name": "Initiation \u00e0 Python",
