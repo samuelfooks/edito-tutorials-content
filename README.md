@@ -49,3 +49,7 @@ A tile also has the ability to launch a pre-configured service directly in the d
 ```
 
 If you can't host your article.html on the web, we allow you to add a markdown file under the articles directory of this project and reference it under the `articleUrl` section with the following prefix path : `https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/myNewArticle.md`.
+
+## Create a Merge Requests
+
+Create a Merge Requests against branch `master` and ping [@pub/edito-infra/codeowners](https://gitlab.mercator-ocean.fr/pub/edito-infra/codeowners) to request code owners to review your proposal.
