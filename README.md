@@ -45,10 +45,13 @@ A tile also has the ability to launch a pre-configured service directly in the d
         "en": "https://my/tutorial/en/page.html",
     }
     "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/"// the url of your pre-configured service
+    // parts: [] 
 },
 ```
 
 If you can't host your article.html on the web, we allow you to add a markdown file under the articles directory of this project and reference it under the `articleUrl` section with the following prefix path : `https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/myNewArticle.md`.
+
+You can organized your articles with sub-sections if desired. To do that, instead of having article or deployment links, add a `parts` keys containing the lists of your articles/tutorials. You can compose sub-section if wanted, meaning articles that are part of a `parts` list can also have `parts` keys.
 
 ## Create a Merge Requests
 

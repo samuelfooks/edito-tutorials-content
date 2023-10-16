@@ -51,11 +51,335 @@
     ],
     "category": "discover EDITO",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-    "articleUrl": {
-      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/PlatformOverview.md",
-      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/PlatformOverview.md",
-      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/PlatformOverview.md"
-    }
+    "parts": [
+      {
+        "name": {
+          "fr": "La page d'accueil",
+          "it": "Pagina iniziale",
+          "en": "Home page"
+        },
+        "abstract": {
+          "fr": "En-têtes contenant des liens vers toutes les pages importantes, différentes langues et modes d'affichage, accès aux principales fonctionnalités",
+          "it": "Intestazioni contenenti i link a tutte le pagine più importanti, alle diverse lingue e modalità di visualizzazione, agli accessi alle funzioni principali",
+          "en": "Headers containing links to all the important pages, different languages and display modes, accesses to the main features"
+        },
+        "authors": [
+          "EDITO"
+        ],
+        "types": [
+          "Tutoriel"
+        ],
+        "tags": [
+          "discover",
+          "learn"
+        ],
+        "category": "discover EDITO",
+        "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+        "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/1-Homepage.mp4"
+      },
+      {
+        "name": {
+          "fr": "Tutoriels",
+          "it": "Tutorial",
+          "en": "Tutorials"
+        },
+        "abstract": {
+          "fr": "Lire et exécuter des tutoriels",
+          "it": "Leggere ed eseguire tutorial",
+          "en": "Read and run tutorials"
+        },
+        "authors": [
+          "EDITO"
+        ],
+        "types": [
+          "Tutoriel"
+        ],
+        "tags": [
+          "discover",
+          "learn"
+        ],
+        "category": "discover EDITO",
+        "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+        "parts": [
+          {
+            "name": {
+              "fr": "Lire des tutoriels",
+              "it": "Leggi i tutorial",
+              "en": "Read tutorials"
+            },
+            "abstract": {
+              "fr": "Lire des tutoriels pour découvrir la plateforme et ses fonctionnalités",
+              "it": "Leggete i tutorial per conoscere la piattaforma e le sue funzionalità",
+              "en": "Read tutorials to learn about the platform and its functionalities"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/2-Tutorials-Read.mp4"
+          },
+          {
+            "name": {
+              "fr": "Exécuter des tutoriels",
+              "it": "Eseguire i tutorial",
+              "en": "Run tutorials"
+            },
+            "abstract": {
+              "fr": "Exécuter des tutoriels avec des services directement ouverts dans le Datalab",
+              "it": "Eseguire tutorial con i servizi aperti direttamente nel Datalab",
+              "en": "Run tutorials with services directly opened in the Datalab"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/11-Tutorials-run-service.mp4"
+          }
+        ]
+      },
+      {
+        "name": {
+          "fr": "Datalab",
+          "it": "Datalab",
+          "en": "Datalab"
+        },
+        "abstract": {
+          "fr": "Découverte du Datalab",
+          "it": "Scoprire il Datalab",
+          "en": "Discover the Datalab"
+        },
+        "authors": [
+          "EDITO"
+        ],
+        "types": [
+          "Tutoriel"
+        ],
+        "tags": [
+          "discover",
+          "learn"
+        ],
+        "category": "discover EDITO",
+        "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+        "parts": [
+          {
+            "name": {
+              "fr": "Le catalogue de services",
+              "it": "Il catalogo dei servizi",
+              "en": "Service catalog"
+            },
+            "abstract": {
+              "fr": "Les services sont classés par onglet en fonction de leur nature",
+              "it": "I servizi sono ordinati per scheda in base al tipo di servizio",
+              "en": "Services are sorted by tab according to their kind"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/3-Datalab-Services-Catalog.mp4"
+          },
+          {
+            "name": {
+              "fr": "Authentification",
+              "it": "Autenticazione",
+              "en": "Authentication"
+            },
+            "abstract": {
+              "fr": "Créer un compte pour pouvoir lancer des services",
+              "it": "Creare un account per poter avviare i servizi",
+              "en": "Create an account to be able to launch services"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/4-Datalab-Authentification.mp4"
+          },
+          {
+            "name": {
+              "fr": "Lancement d'un service",
+              "it": "Avvio di un servizio",
+              "en": "Launching a service"
+            },
+            "abstract": {
+              "fr": "Découvrez comment lancer des services, configurer leurs ressources, Git, S3 et les accès aux secrets, ainsi que comment mettre en signet des services préconfigurés",
+              "it": "Scoprite come lanciare i servizi, configurare le loro risorse, Git, S3 e gli accessi segreti, nonché come creare segnalibri per i servizi preconfigurati",
+              "en": "Discover how to launch services, configure their resources, Git, S3 and secret accesses, as well as how to bookmark pre-configured services"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/5-Datalab-Launch-Service.mp4"
+          },
+          {
+            "name": {
+              "fr": "Mes services",
+              "it": "I miei servizi",
+              "en": "My services"
+            },
+            "abstract": {
+              "fr": "Explorer vos services lancés et préconfigurés",
+              "it": "Esplorate i vostri servizi avviati e preconfigurati",
+              "en": "Explored your launched and pre-configured services"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/6-Datalab-My-Services.mp4"
+          },
+          {
+            "name": {
+              "fr": "Mes secrets",
+              "it": "I miei segreti",
+              "en": "My secrets"
+            },
+            "abstract": {
+              "fr": "Découvrez comment ajouter de nouveaux secrets personnels et comment les utiliser dans vos services",
+              "it": "Scoprire come aggiungere nuovi segreti personali e come utilizzarli nei propri servizi",
+              "en": "Discover how to add new personal secrets and how to use them in your services"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/7-Datalab-My-Secrets.mp4"
+          },
+          {
+            "name": {
+              "fr": "Mes fichiers",
+              "it": "I miei file",
+              "en": "My files"
+            },
+            "abstract": {
+              "fr": "Découvrez comment ajouter de nouveaux fichiers personnels et comment les utiliser dans vos services",
+              "it": "Scoprite come aggiungere nuovi file personali e come utilizzarli nei vostri servizi",
+              "en": "Discover how to add new personal files and how to use them in your services"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/8-Datalab-My-Files.mp4"
+          },
+          {
+            "name": {
+              "fr": "Mon compte",
+              "it": "Il mio account",
+              "en": "My account"
+            },
+            "abstract": {
+              "fr": "Découvrez comment vous connecter à des services externes tels que GitHub et GitLab, comment mettre à jour votre langue et votre mode d'affichage",
+              "it": "Scoprite come collegarvi a servizi esterni come GitHub e GitLab, come aggiornare la lingua e la modalità di visualizzazione",
+              "en": "Discover how to connect to external services such as GitHub and GitLab, how to update your language and display mode"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/9-Datalab-My-Account.mp4"
+          },
+          {
+            "name": {
+              "fr": "Script d'initialisation des services",
+              "it": "Script di inizializzazione del servizio",
+              "en": "Service initialisation script"
+            },
+            "abstract": {
+              "fr": "Automatiser des installations ou des commandes au démarrage de votre service",
+              "it": "Automatizzare le installazioni o gli commandi all'avvio del servizio",
+              "en": "Automate installations or commands when your service starts up"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "discover EDITO",
+            "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+            "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/10-Datalab-Additional-Init.mp4"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": {
@@ -245,9 +569,9 @@
     "parts": [
       {
         "name": {
-          "fr": "Utiliser Autosubmit dans le datalab",
-          "it": "Utilizza Autosubmit nel datalab",
-          "en": "Use Autosubmit in the datalab"
+          "fr": "Utiliser Autosubmit dans le Datalab",
+          "it": "Utilizza Autosubmit nel Datalab",
+          "en": "Use Autosubmit in the Datalab"
         },
         "abstract": {
           "fr": "Comment utiliser le service Jupyterlab-autosubmit-bsc du catalogue de services ModelLab",
@@ -323,26 +647,6 @@
     "category": "training courses with python",
     "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
     "parts": [
-      {
-        "name": "Introduction",
-        "abstract": "Introduction de l'auto-formation \"Initiation \u00e0 Python\" du SSP Cloud",
-        "authors": [
-          "inseefrlab"
-        ],
-        "contributors": [
-          "Romain Avouac"
-        ],
-        "types": [
-          "Notebook Python"
-        ],
-        "tags": [
-          "discover",
-          "learn"
-        ],
-        "category": "training courses with python",
-        "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "parts": []
-      },
       {
         "name": "Fondamentaux du langage",
         "abstract": "Pr\u00e9sentation de la syntaxe et des objets de base en Python",
