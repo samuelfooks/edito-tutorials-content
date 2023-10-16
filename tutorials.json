@@ -32,12 +32,12 @@
     "name": {
       "fr": "Découvrez la plateforme EDITO en vidéo",
       "it": "Scopri la piattaforma EDITO in video",
-      "en": "Discover EDITO platform in video"
+      "en": "Explore EDITO platform in video"
     },
     "abstract": {
       "fr": "Plusieurs vidéos pour découvrir les fonctionnalités de la plateforme",
       "it": "Tanti video per scoprire le funzionalità della piattaforma",
-      "en": "Multiple videos to discover the platform functionalities"
+      "en": "Multiple videos to explore the platform functionalities"
     },
     "authors": [
       "EDITO"
@@ -162,7 +162,7 @@
         "abstract": {
           "fr": "Découverte du Datalab",
           "it": "Scoprire il Datalab",
-          "en": "Discover the Datalab"
+          "en": "Explore the Datalab"
         },
         "authors": [
           "EDITO"
@@ -236,7 +236,7 @@
             "abstract": {
               "fr": "Découvrez comment lancer des services, configurer leurs ressources, Git, S3 et les accès aux secrets, ainsi que comment mettre en signet des services préconfigurés",
               "it": "Scoprite come lanciare i servizi, configurare le loro risorse, Git, S3 e gli accessi segreti, nonché come creare segnalibri per i servizi preconfigurati",
-              "en": "Discover how to launch services, configure their resources, Git, S3 and secret accesses, as well as how to bookmark pre-configured services"
+              "en": "Learn how to launch services, configure their resources, Git, S3 and access secrets, as well as how to bookmark pre-configured services"
             },
             "authors": [
               "EDITO"
@@ -261,7 +261,7 @@
             "abstract": {
               "fr": "Explorer vos services lancés et préconfigurés",
               "it": "Esplorate i vostri servizi avviati e preconfigurati",
-              "en": "Explored your launched and pre-configured services"
+              "en": "Explore your launched and pre-configured services"
             },
             "authors": [
               "EDITO"
@@ -286,7 +286,7 @@
             "abstract": {
               "fr": "Découvrez comment ajouter de nouveaux secrets personnels et comment les utiliser dans vos services",
               "it": "Scoprire come aggiungere nuovi segreti personali e come utilizzarli nei propri servizi",
-              "en": "Discover how to add new personal secrets and how to use them in your services"
+              "en": "Learn how to add new personal secrets and how to use them in your services"
             },
             "authors": [
               "EDITO"
@@ -311,7 +311,7 @@
             "abstract": {
               "fr": "Découvrez comment ajouter de nouveaux fichiers personnels et comment les utiliser dans vos services",
               "it": "Scoprite come aggiungere nuovi file personali e come utilizzarli nei vostri servizi",
-              "en": "Discover how to add new personal files and how to use them in your services"
+              "en": "Learn how to add new personal files and how to use them in your services"
             },
             "authors": [
               "EDITO"
@@ -336,7 +336,7 @@
             "abstract": {
               "fr": "Découvrez comment vous connecter à des services externes tels que GitHub et GitLab, comment mettre à jour votre langue et votre mode d'affichage",
               "it": "Scoprite come collegarvi a servizi esterni come GitHub e GitLab, come aggiornare la lingua e la modalità di visualizzazione",
-              "en": "Discover how to connect to external services such as GitHub and GitLab, how to update your language and display mode"
+              "en": "Learn how to connect to external services such as GitHub and GitLab, how to update your language and display mode"
             },
             "authors": [
               "EDITO"
@@ -385,12 +385,12 @@
     "name": {
       "fr": "Principes du Datalab",
       "it": "Principi del Datalab",
-      "en": "Principles of the Datalab"
+      "en": "Concepts of the Datalab"
     },
     "abstract": {
       "fr": "Pr\u00e9sentation des grands principes du Datalab",
       "it": "Presentazione dei grandi principi del Datalab",
-      "en": "Introducing the main principles of the Datalab"
+      "en": "Introducing the main concepts of the Datalab"
     },
     "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
     "category": "discover EDITO",
