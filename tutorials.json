@@ -591,9 +591,9 @@
         "category": "discover EDITO",
         "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
         "articleUrl": {
-          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
-          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md",
-          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Jupyterlab-autosubmit-bsc.md"
+          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/modellab-helm-charts/-/blob/main/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
+          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/modellab-helm-charts/-/blob/main/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
+          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/modellab-helm-charts/-/blob/main/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md"
         },
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/modellab/jupyterlab-autosubmit-bsc?autoLaunch=true"
       },
