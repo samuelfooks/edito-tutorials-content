@@ -625,6 +625,35 @@
           "it": "https://autosubmit.readthedocs.io/en/master/",
           "en": "https://autosubmit.readthedocs.io/en/master/"
         }
+      },
+      {
+        "name": {
+          "fr": "Formation Autosubmit pour EDITO",
+          "it": "Formazione Autosubmit per EDITO",
+          "en": "Autosubmit EDITO training"
+        },
+        "abstract": {
+          "fr": "Matériel de formation pour la réunion EDITO Technical Co-design du VOML",
+          "it": "Materiale formativo per la riunione EDITO Technical Co-design di VOML",
+          "en": "Training material for EDITO Technical Co-Design of VOML meeting"
+        },
+        "authors": [
+          "BSC"
+        ],
+        "types": [
+          "Tutoriel"
+        ],
+        "tags": [
+          "discover",
+          "learn"
+        ],
+        "category": "discover EDITO",
+        "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
+        "articleUrl": {
+          "fr": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",
+          "it": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",
+          "en": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training"
+        }
       }
     ]
   },
