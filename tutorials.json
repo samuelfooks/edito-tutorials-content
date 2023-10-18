@@ -564,7 +564,7 @@
       "discover",
       "learn"
     ],
-    "category": "discover EDITO",
+    "category": "contribute to ocean modelling",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "parts": [
       {
@@ -588,7 +588,7 @@
           "discover",
           "learn"
         ],
-        "category": "discover EDITO",
+        "category": "contribute to ocean modelling",
         "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
         "articleUrl": {
           "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/modellab-helm-charts/-/blob/main/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
@@ -618,7 +618,7 @@
           "discover",
           "learn"
         ],
-        "category": "discover EDITO",
+        "category": "contribute to ocean modelling",
         "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
         "articleUrl": {
           "fr": "https://autosubmit.readthedocs.io/en/master/",
@@ -647,7 +647,7 @@
           "discover",
           "learn"
         ],
-        "category": "discover EDITO",
+        "category": "contribute to ocean modelling",
         "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
         "articleUrl": {
           "fr": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",

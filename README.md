@@ -37,7 +37,7 @@ A tile also has the ability to launch a pre-configured service directly in the d
         "learn",
         "consolidate"
     ],
-    "category": "discover EDITO",  // For now, you'll only be able to choose between: "best practices", "discover EDITO", "training courses in data science", "training courses with python" and "training courses with R"
+    "category": "discover EDITO",  // For now, you'll only be able to choose between: "best practices", "discover EDITO",  "contribute to ocean modelling", "training courses in data science", "training courses with python" and "training courses with R"
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "articleUrl": {
         "fr": "https://my/tutorial/fr/page.html", // the url of your tutorial
