@@ -683,41 +683,17 @@
     "parts": [
       {
         "name": {
-          "fr": "Notebooks Python",
-          "it": "Notebooks Python",
-          "en": "Python Notebooks"
+          "fr": "Visualisation El-Nino 3.4",
+          "it": "Visualizzazione El-Nino 3.4",
+          "en": "El-Nino 3.4 Visualisation"
         },
         "abstract": {
-          "fr": "Divers exemples de notebooks python pour acceder et analyser la donnee sur le data lake",
-          "it": "Vari esempi di notebook python per l'accesso e l'analisi dei dati sul data lake",
-          "en": "Various examples of python notebooks for accessing and analysing data on the data lake"
+          "fr": "Application permettant de reconstruire et visualiser l'index El-Nino multivarie a partir de la Reanalyse Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) sur la boite Nino 3.4",
+          "it": "Applicazione per la ricostruzione e la visualizzazione dell'indice multivariato El-Nino della Reanalisi Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) sul box Nino 3.4.",
+          "en": "Application for reconstructing and displaying the multivariate El-Nino index from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) on the Nino 3.4 box."
         },
         "authors": [
           "EDITO"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "discover",
-          "learn"
-        ],
-        "category": "contribute to ocean modelling",
-        "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-        "parts": [
-          {
-            "name": {
-              "fr": "Visualisation El-Nino 3.4",
-              "it": "Visualizzazione El-Nino 3.4",
-              "en": "El-Nino 3.4 Visualisation"
-            },
-            "abstract": {
-              "fr": "Application permettant de reconstruire et visualiser l'index El-Nino multivarie a partir de la Reanalyse Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) sur la boite Nino 3.4",
-              "it": "Applicazione per la ricostruzione e la visualizzazione dell'indice multivariato El-Nino della Reanalisi Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) sul box Nino 3.4.",
-              "en": "Application for reconstructing and displaying the multivariate El-Nino index from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) on the Nino 3.4 box."
-            },
-            "authors": [
-              "EDITO"
             ],
             "types": [
               "Tutoriel"
@@ -729,20 +705,20 @@
             "category": "contribute to ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_ElNino»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FEl_Nino%2Finit_script.sh»&vault.secret=«Credentials»"
-          },
-          {
-            "name": {
-              "fr": "Récupérer des données sur les Marine and Climate Data Stores",
-              "it": "Recuperare i dati sugli Marine e Climate Data Stoes",
-              "en": "Fetch data on Marine and Climate Data Stores"
-            },
-            "abstract": {
-              "fr": "Telechargement de donnees de la Reanalyse Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) et ERA5",
-              "it": "Scaricare i dati della rianalisi globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) e di ERA5",
-              "en": "Download data from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) and ERA5"
-            },
-            "authors": [
-              "EDITO"
+      },
+      {
+        "name": {
+          "fr": "Récupérer des données sur les Marine and Climate Data Stores",
+          "it": "Recuperare i dati sugli Marine e Climate Data Stoes",
+          "en": "Fetch data on Marine and Climate Data Stores"
+        },
+        "abstract": {
+          "fr": "Telechargement de donnees de la Reanalyse Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) et ERA5",
+          "it": "Scaricare i dati della rianalisi globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) e di ERA5",
+          "en": "Download data from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) and ERA5"
+        },
+        "authors": [
+          "EDITO"
             ],
             "types": [
               "Tutoriel"
@@ -754,20 +730,20 @@
             "category": "contribute to ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_DataRetrieval»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FDataRetrieval%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
-          },
-          {
-            "name": {
-              "fr": "Plus hautes vagues de la Reanalyse Globale",
-              "it": "Onde più alte nelle Rianalisi Globali",
-              "en": "Highest Waves on Global Reanalysis"
-            },
-            "abstract": {
-              "fr": "Recuperation et visualisation des plus haute vagues sur 26 ans de Reanalyse Globale WAVERYS (GLOBAL_MULTIYEAR_WAV_001_032)",
-              "it": "Recupero e visualizzazione delle onde più alte in 26 anni di rianalisi globale WAVERYS (GLOBAL_MULTIYEAR_WAV_001_032)",
-              "en": "Recuperation and visualisation of the highest waves over 26 years of Global Reanalysis WAVERYS (GLOBAL_MULTIYEAR_WAV_001_032)"
-            },
-            "authors": [
-              "EDITO"
+      },
+      {
+        "name": {
+          "fr": "Plus hautes vagues de la Reanalyse Globale",
+          "it": "Onde più alte nelle Rianalisi Globali",
+          "en": "Highest Waves on Global Reanalysis"
+        },
+        "abstract": {
+          "fr": "Recuperation et visualisation des plus haute vagues sur 26 ans de Reanalyse Globale WAVERYS (GLOBAL_MULTIYEAR_WAV_001_032)",
+          "it": "Recupero e visualizzazione delle onde più alte in 26 anni di rianalisi globale WAVERYS (GLOBAL_MULTIYEAR_WAV_001_032)",
+          "en": "Recuperation and visualisation of the highest waves over 26 years of Global Reanalysis WAVERYS (GLOBAL_MULTIYEAR_WAV_001_032)"
+        },
+        "authors": [
+          "EDITO"
             ],
             "types": [
               "Tutoriel"
@@ -779,20 +755,20 @@
             "category": "contribute to ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&vault.secret=«Credentials»&onyxia.friendlyName=«Demo_HighestWave»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FHighest_Waves%2Finit_script.sh»"
-          },
-          {
-            "name": {
-              "fr": "Detection de Vague de Chaleur Marine dans une zone geographique (ZEE)",
-              "it": "Rilevamento delle onde di calore marine in un'area geografica (ZEE)",
-              "en": "Detection of marine heat waves in a geographical area (EEZ)"
-            },
-            "abstract": {
-              "fr": "Calcul et detection des anomalies de chaleur dans une zone delimitee par un Shapefile par rapport a des statistiques climatologiques issues de la Reanalyse Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) et calculees a la volee sur la periode 1993-2016",
-              "it": "Calcolo e rilevamento delle anomalie termiche in un'area delimitata da uno Shapefile in relazione alle statistiche climatologiche tratte dalla rianalisi globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) e calcolate al volo nel periodo 1993-2016.",
-              "en": "Calculation and detection of heat anomalies in an area delimited by a Shapefile in relation to climatological statistics taken from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) and calculated on the fly over the period 1993-2016"
-            },
-            "authors": [
-              "EDITO"
+      },
+      {
+        "name": {
+          "fr": "Detection de Vagues de Chaleur Marine dans une zone geographique (ZEE)",
+          "it": "Rilevamento delle onde di calore marine in un'area geografica (ZEE)",
+          "en": "Detection of marine heat waves in a geographical area (EEZ)"
+        },
+        "abstract": {
+          "fr": "Calcul et detection des anomalies de chaleur dans une zone delimitee par un Shapefile par rapport a des statistiques climatologiques issues de la Reanalyse Globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) et calculees a la volee sur la periode 1993-2016",
+          "it": "Calcolo e rilevamento delle anomalie termiche in un'area delimitata da uno Shapefile in relazione alle statistiche climatologiche tratte dalla rianalisi globale GLORYS12 (GLOBAL_MULTIYEAR_PHY_001_030) e calcolate al volo nel periodo 1993-2016.",
+          "en": "Calculation and detection of heat anomalies in an area delimited by a Shapefile in relation to climatological statistics taken from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) and calculated on the fly over the period 1993-2016"
+        },
+        "authors": [
+          "EDITO"
             ],
             "types": [
               "Tutoriel"
@@ -804,20 +780,20 @@
             "category": "contribute to ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_MHW»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FMarineHeatWaves%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
-          },
-          {
-            "name": {
-              "fr": "Utilisation d'OceanBench sur le DataLab d'EDITO",
-              "it": "Utilizzo di OceanBench su EDITO DataLab",
-              "en": "Using OceanBench on EDITO DataLab"
-            },
-            "abstract": {
-              "fr": "Exemple d'utilisation dOceanBench",
-              "it": "Esempio di applicazioni OceanBench",
-              "en": "Example of OceanBench applications"
-            },
-            "authors": [
-              "EDITO"
+      },
+      {
+        "name": {
+          "fr": "Utilisation d'OceanBench (IA) sur le DataLab d'EDITO",
+          "it": "Utilizzo di OceanBench (IA) su EDITO DataLab",
+          "en": "Using OceanBench (AI) on EDITO DataLab"
+        },
+        "abstract": {
+          "fr": "Des exemples d'utilisation de l'outil OceanBench appliquées aux données oceanographiques",
+          "it": "Esempi di utilizzo dello strumento OceanBench applicato ai dati oceanografici",
+          "en": "Examples of the use of the OceanBench tool applied to oceanographic data"
+        },
+        "authors": [
+          "EDITO"
             ],
             "types": [
               "Tutoriel"
@@ -829,58 +805,6 @@
             "category": "contribute to ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OceanBench»&vault.secret=«Credentials»&git.repository=«https%3A%2F%2Fgithub.com%2Fjejjohnson%2Foceanbench.git»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FOceanBench%2Finit_script.sh»"
-          }
-        ]
-      },
-      {
-        "name": {
-          "fr": "Notebooks IA (OceanBench)",
-          "it": "Notebooks di IA (OceanBench)",
-          "en": "AI (OceanBench) Notebooks"
-        },
-        "abstract": {
-          "fr": "Des exemples d'utilisation de l'outil OceanBench appliquees aux donnes oceanographiques",
-          "it": "Esempi di utilizzo dello strumento OceanBench applicato ai dati oceanografici",
-          "en": "Examples of the use of the OceanBench tool applied to oceanographic data"
-        },
-        "authors": [
-          "EDITO"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "discover",
-          "learn"
-        ],
-        "category": "contribute to ocean modelling",
-        "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-        "articleUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OceanBench»&vault.secret=«Credentials»&git.repository=«https%3A%2F%2Fgithub.com%2Fjejjohnson%2Foceanbench.git»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FOceanBench%2Finit_script.sh»"
-      },
-      {
-        "name": {
-          "fr": "Examples FORTRAN",
-          "it": "Esempi FORTRAN",
-          "en": "FORTRAN Examples"
-        },
-        "abstract": {
-          "fr": "Cas de compilation et d'exectuion de codes FORTRAN",
-          "it": "Creazione ed esecuzione di casi d'uso FORTRAN",
-          "en": "Build and Run FORTRAN Codes Use Cases"
-        },
-        "authors": [
-          "EDITO"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "discover",
-          "learn"
-        ],
-        "category": "contribute to ocean modelling",
-        "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-        "articleUrl": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/PlatformOverview/assets/3-Datalab-Services-Catalog.mp4"
       }
     ]
   },
