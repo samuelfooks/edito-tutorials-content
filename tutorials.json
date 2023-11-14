@@ -2330,5 +2330,39 @@
         "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-r?autoLaunch=true&init.personalInitArgs=%C2%ABreclin2%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB"
       }
     ]
+  },
+  {
+      "name": {
+          "fr": "Hébergez votre propre application web",
+          "it": "Ospitare la propria applicazione web",
+          "en": "Host your own web application"
+      },
+      "abstract": {
+          "fr": "Apprenez à créer un Helm Chart pour héberger votre propre application web",
+          "it": "Imparare a creare un Helm Chart per ospitare la propria applicazione web",
+          "en": "Learn how to create a Helm chart to host your own web application"
+      },
+      "authors": [
+          "EDITO"
+      ],
+      "types": [
+            {
+              "fr": "Tutoriel",
+              "it": "Tutorial",
+              "en": "Tutorial"
+            }
+      ],
+      "tags": [
+          "discover",
+          "learn",
+          "consolidate"
+      ],
+      "category": "discover EDITO",
+      "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+      "articleUrl": {
+          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/ReactAppChart.md",
+          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/ReactAppChart.md",
+          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/ReactAppChart.md"
+      }
   }
 ]
