@@ -101,21 +101,7 @@ Replace the Docker image links by the one you provided above as well as the serv
                     }        
                 }
             }
-        },
-        "networking": {
-          ...
-          "properties": {
-            "service": {
-              ...
-              "properties": {
-                "port": {
-                  ... 
-                  "default": 3001
-                }
-              }
-            }
-          }
-        },
+        }
     ...
 ```
 
