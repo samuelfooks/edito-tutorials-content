@@ -2360,9 +2360,9 @@
       "category": "discover EDITO",
       "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
       "articleUrl": {
-          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/ReactAppChart.md",
-          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/ReactAppChart.md",
-          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/ReactAppChart.md"
+          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md",
+          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md",
+          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md"
       }
   }
 ]
