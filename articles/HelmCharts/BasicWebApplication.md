@@ -1,14 +1,14 @@
-# Host your own web application
+# Add your own web application as a service
 
-To add any service to our platform, you will have to make a pull request to our [Ocean Modelling Helm Charts](https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-modelling-helm-charts) repository.
+To add any service to our platform, you will have to make a pull request to one of our repositories. For all services pertaining to the Ocean domain please use the [Ocean Modelling Helm Charts](https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-modelling-helm-charts) repository. If your are not sure of the repository to target, please use the [Playground Helm Charts](https://gitlab.mercator-ocean.fr/pub/edito-infra/playground-helm-charts) repository.  
 
-This tutorial provide the guideline to follow to create your own helm chart that can host a Docker image web application. Do not hesitate to look at other charts to get inspired.
+This tutorial provides the guideline to follow to create your own helm chart that can host a Docker image web application. Do not hesitate to look at other charts to get inspired.
 
 First thing first, you will need to have a Docker image hosted on a public repository. This image should run a container exposing a web service through a port.
 
 In this tutorial, we will take [TerriaMap datalab service](https://datalab.staging.edito.eu/launcher/oceanmodelling/terria-map-viewer) as an example. The [TerriaMap github project is available here](https://github.com/TerriaJS/TerriaMap) if you want to know more about it.
 
-And as you can see, this project satisfy the minimal requirement for hosting a web application on the datalab, which is having a public docker image available. You can find the correspong [Dockerfile here](https://github.com/TerriaJS/TerriaMap/blob/main/deploy/docker/Dockerfile) if you need to inspire you. Here, it is only running a node application on the port **3001**.
+And as you can see, this project satisfy the minimal requirement for hosting a web application on the datalab, which is having a public docker image available. You can find the corresponding [Dockerfile here](https://github.com/TerriaJS/TerriaMap/blob/main/deploy/docker/Dockerfile) if you need to inspire you. Here, it is only running a node application on the port **3001**.
 
 ## Clone the repository
 
@@ -31,7 +31,7 @@ cp terria-map-viewer terriamap-copy-example
 Change the following fields and leave the others unchanged:
 
 - name (the name of your application, using only alphanumerical characters without spaces. Also known as [kebab-case](https://en.wikipedia.org/wiki/Naming_convention_(programming)) convention)
-- description (a brieve description of your application)
+- description (a brief description of your application)
 - icon (an image that represent the underlying application)
 - keywords (a list of useful keywords that can be used to retrieve your application from the datalab search bar)
 - version (the version of the chart. Starts with 1.0.0 and update later if you need some changes)
@@ -61,7 +61,7 @@ As you may see, you can use Helm values in this template file. Please take a loo
 
 ### Edit the `values.yaml` file
 
-Change the `service.image.version` value by the link to your public docker image as well, as the service port exposed.
+Change the `service.image.version` value by the link to your public docker image as well as the service port exposed.
 
 ```yaml
 ...

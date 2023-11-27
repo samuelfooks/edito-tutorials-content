@@ -2333,14 +2333,14 @@
   },
   {
       "name": {
-          "fr": "Hébergez votre propre application web",
-          "it": "Ospitare la propria applicazione web",
-          "en": "Host your own web application"
+          "fr": "Ajoutez votre propre application web en tant que service",
+          "it": "Aggiungere la propria applicazione web come servizio",
+          "en": "Add your own web application as a service"
       },
       "abstract": {
-          "fr": "Apprenez à créer un Helm Chart pour héberger votre propre application web",
-          "it": "Imparare a creare un Helm Chart per ospitare la propria applicazione web",
-          "en": "Learn how to create a Helm chart to host your own web application"
+          "fr": "Apprenez à créer un Helm chart pour ajouter votre propre application web en tant que service.",
+          "it": "Imparare a creare un Helm chart per aggiungere la propria applicazione web come servizio",
+          "en": "Learn how to create a Helm chart to add your own web application as a service"
       },
       "authors": [
           "EDITO"
