@@ -18,7 +18,7 @@ git clone https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-modelling-helm-
 
 ## Create your own chart folder
 
-You can start by copying the content `web-app-template` folder inside your own folder.
+You can start by copying the content `terria-map-viewer` folder inside your own folder.
 
 ```sh
 cp terria-map-viewer terriamap-copy-example
