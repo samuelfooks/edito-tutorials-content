@@ -6,14 +6,14 @@ This tutorial provides the guideline to follow to create your own helm chart tha
 
 First thing first, you will need to have a Docker image hosted on a public repository. This image should run a container exposing a web service through a port.
 
-In this tutorial, we will take [TerriaMap datalab service](https://datalab.staging.edito.eu/launcher/oceanmodelling/terria-map-viewer) as an example. The [TerriaMap github project is available here](https://github.com/TerriaJS/TerriaMap) if you want to know more about it.
+In this tutorial, we will take [TerriaMap datalab service](https://datalab.digitaltwinocean.edito.eu/launcher/playground/terria-map-viewer) as an example. The [TerriaMap github project is available here](https://github.com/TerriaJS/TerriaMap) if you want to know more about it.
 
 And as you can see, this project satisfy the minimal requirement for hosting a web application on the datalab, which is having a public docker image available. You can find the corresponding [Dockerfile here](https://github.com/TerriaJS/TerriaMap/blob/main/deploy/docker/Dockerfile) if you need to inspire you. Here, it is only running a node application on the port **3001**.
 
 ## Clone the repository
 
 ```sh
-git clone https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-modelling-helm-charts.git
+git clone https://gitlab.mercator-ocean.fr/pub/edito-infra/playground-helm-charts.git
 ```
 
 ## Create your own chart folder
@@ -107,7 +107,7 @@ Replace the Docker image links by the one you provided above as well as the serv
 
 ### Update the Makefile
 
-Add a Make command to push your chart:
+Add a Make command in the Makefile to push your chart:
 
 ```Makefile
 push-chart-terriamap-copy-example: CHART_DIRECTORY = terriamap-copy-example/
