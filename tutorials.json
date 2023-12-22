@@ -2364,5 +2364,39 @@
           "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md",
           "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md"
       }
-  }
+  },
+  {
+    "name": {
+        "fr": "Lancer NEMO sur EDITO",
+        "it": "Eseguire NEMO su EDITO",
+        "en": "Run NEMO on EDITO"
+    },
+    "abstract": {
+        "fr": "Apprenez à lancer NEMO sur EDITO",
+        "it": "Imparare a eseguire NEMO su EDITO",
+        "en": "Learn how to Run NEMO on EDITO"
+    },
+    "authors": [
+        "EDITO"
+    ],
+    "types": [
+          {
+            "fr": "Tutoriel",
+            "it": "Tutorial",
+            "en": "Tutorial"
+          }
+    ],
+    "tags": [
+        "discover",
+        "learn",
+        "consolidate"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md"
+    }
+}
 ]
