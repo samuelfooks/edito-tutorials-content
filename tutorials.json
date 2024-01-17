@@ -2367,6 +2367,40 @@
   },
   {
     "name": {
+        "fr": "Ajoutez votre propre calcul en tant que process",
+        "it": "Aggiungere il proprio calcolo come process",
+        "en": "Add your own computation as a process"
+    },
+    "abstract": {
+        "fr": "Apprenez à créer un Helm chart pour ajouter votre propre calcul en tant que process.",
+        "it": "Imparare a creare un Helm chart per aggiungere i propri calcoli come process.",
+        "en": "Learn how to create a Helm chart to add your own computation as a process."
+    },
+    "authors": [
+        "EDITO"
+    ],
+    "types": [
+          {
+            "fr": "Tutoriel",
+            "it": "Tutorial",
+            "en": "Tutorial"
+          }
+    ],
+    "tags": [
+        "discover",
+        "learn",
+        "consolidate"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicProcess.md",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicProcess.md",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicProcess.md"
+    }
+  },
+  {
+    "name": {
         "fr": "Lancer NEMO sur EDITO",
         "it": "Eseguire NEMO su EDITO",
         "en": "Run NEMO on EDITO"
