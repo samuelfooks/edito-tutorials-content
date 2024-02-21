@@ -564,7 +564,7 @@
       "discover",
       "learn"
     ],
-    "category": "contribute to ocean modelling",
+    "category": "Ocean modelling",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "parts": [
       {
@@ -588,7 +588,7 @@
           "discover",
           "learn"
         ],
-        "category": "contribute to ocean modelling",
+        "category": "Ocean modelling",
         "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
         "articleUrl": {
           "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/modellab-helm-charts/-/blob/main/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
@@ -618,7 +618,7 @@
           "discover",
           "learn"
         ],
-        "category": "contribute to ocean modelling",
+        "category": "Ocean modelling",
         "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
         "articleUrl": {
           "fr": "https://autosubmit.readthedocs.io/en/master/",
@@ -647,7 +647,7 @@
           "discover",
           "learn"
         ],
-        "category": "contribute to ocean modelling",
+        "category": "Ocean modelling",
         "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
         "articleUrl": {
           "fr": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",
@@ -678,7 +678,7 @@
       "discover",
       "learn"
     ],
-    "category": "contribute to ocean modelling",
+    "category": "Ocean modelling",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "parts": [
       {
@@ -702,7 +702,7 @@
               "discover",
               "learn"
             ],
-            "category": "contribute to ocean modelling",
+            "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_ElNino»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FEl_Nino%2Finit_script.sh»&vault.secret=«Credentials»"
       },
@@ -727,7 +727,7 @@
               "discover",
               "learn"
             ],
-            "category": "contribute to ocean modelling",
+            "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_DataRetrieval»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FDataRetrieval%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
       },
@@ -752,7 +752,7 @@
               "discover",
               "learn"
             ],
-            "category": "contribute to ocean modelling",
+            "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&vault.secret=«Credentials»&onyxia.friendlyName=«Demo_HighestWave»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FHighest_Waves%2Finit_script.sh»"
       },
@@ -777,7 +777,7 @@
               "discover",
               "learn"
             ],
-            "category": "contribute to ocean modelling",
+            "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_MHW»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FMarineHeatWaves%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
       },
@@ -802,7 +802,7 @@
               "discover",
               "learn"
             ],
-            "category": "contribute to ocean modelling",
+            "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
             "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OceanBench»&vault.secret=«Credentials»&git.repository=«https%3A%2F%2Fgithub.com%2Fjejjohnson%2Foceanbench.git»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FOceanBench%2Finit_script.sh»"
       }
