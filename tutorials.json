@@ -2432,5 +2432,37 @@
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
         "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md"
     }
-}
+  },
+  {
+    "name": {
+        "fr": "Travailler en groupe",
+        "it": "Lavorare in gruppo",
+        "en": "Work in groups"
+    },
+    "abstract": {
+        "fr": "En savoir plus sur les projets de groupe sur EDITO",
+        "it": "Scopri il progetto di gruppo su EDITO",
+        "en": "Learn about group project on EDITO"
+    },
+    "authors": [
+        "EDITO"
+    ],
+    "types": [
+          {
+            "fr": "Tutoriel",
+            "it": "Tutorial",
+            "en": "Tutorial"
+          }
+    ],
+    "tags": [
+        "consolidate"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md"
+    }
+  }
 ]
