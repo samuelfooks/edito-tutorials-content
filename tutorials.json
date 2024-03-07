@@ -23,9 +23,9 @@
     "category": "discover EDITO",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "articleUrl": {
-      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/README.md",
-      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/README.md",
-      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/README.md"
+      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
+      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
+      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content"
     }
   },
   {
@@ -2360,9 +2360,9 @@
       "category": "discover EDITO",
       "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
       "articleUrl": {
-          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md",
-          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md",
-          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicWebApplication.md"
+          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/helm-charts/playground",
+          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/helm-charts/playground",
+          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/helm-charts/playground"
       }
   },
   {
@@ -2394,9 +2394,9 @@
     "category": "discover EDITO",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "articleUrl": {
-        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicProcess.md",
-        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicProcess.md",
-        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/HelmCharts/BasicProcess.md"
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/"
     }
   },
   {
