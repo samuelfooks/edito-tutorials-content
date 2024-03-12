@@ -2464,5 +2464,37 @@
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
         "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md"
     }
+  },
+  {
+    "name": {
+        "fr": "Comprendre les resources sur EDITO",
+        "it": "Comprendere le risorse di EDITO",
+        "en": "Understanding EDITO resources"
+    },
+    "abstract": {
+        "fr": "En savoir plus sur le fonctionnement de l'infrastructure et les quotas",
+        "it": "Per saperne di più su come funziona l'infrastruttura e le quote",
+        "en": "Learn about infrastructure behavior and resource quotas"
+    },
+    "authors": [
+        "EDITO"
+    ],
+    "types": [
+          {
+            "fr": "Tutoriel",
+            "it": "Tutorial",
+            "en": "Tutorial"
+          }
+    ],
+    "tags": [
+        "consolidate"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md"
+    }
   }
 ]
