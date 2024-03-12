@@ -1,7 +1,7 @@
 # How to run NEMO model on EDITO
 
 ## Launch the dedicated service
-Start by going to the [ocean processes catalog](https://datalab.digitaltwinocean.edito.eu/catalog/oceanprocesses), and launch the **Nemo-run-and-served** process.
+Start by going to the [ocean processes catalog](https://datalab.dive.edito.eu/catalog/ocean-processes), and launch the **Nemo-run-and-served** process.
 
 ![Launch](launch.gif)
 

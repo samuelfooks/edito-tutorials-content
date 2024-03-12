@@ -392,7 +392,7 @@
       "it": "Presentazione dei grandi principi del Datalab",
       "en": "Introducing the main concepts of the Datalab"
     },
-    "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+    "imageUrl": "https://datalab.dive.edito.eu/favicon-32x32.png",
     "category": "discover EDITO",
     "parts": [
       {
@@ -417,7 +417,7 @@
           "learn"
         ],
         "category": "discover EDITO",
-        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "imageUrl": "https://datalab.dive.edito.eu/favicon-32x32.png",
         "articleUrl": {
           "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/discover.html",
           "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/discover.html",
@@ -446,7 +446,7 @@
           "learn"
         ],
         "category": "discover EDITO",
-        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "imageUrl": "https://datalab.dive.edito.eu/favicon-32x32.png",
         "articleUrl": {
           "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/version-control.html",
           "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/version-control.html",
@@ -475,7 +475,7 @@
           "learn"
         ],
         "category": "discover EDITO",
-        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "imageUrl": "https://datalab.dive.edito.eu/favicon-32x32.png",
         "articleUrl": {
           "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/storage.html",
           "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/storage.html",
@@ -504,7 +504,7 @@
           "learn"
         ],
         "category": "discover EDITO",
-        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "imageUrl": "https://datalab.dive.edito.eu/favicon-32x32.png",
         "articleUrl": {
           "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/secrets.html",
           "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/secrets.html",
@@ -533,7 +533,7 @@
           "learn"
         ],
         "category": "discover EDITO",
-        "imageUrl": "https://datalab.digitaltwinocean.edito.eu/favicon-32x32.png",
+        "imageUrl": "https://datalab.dive.edito.eu/favicon-32x32.png",
         "articleUrl": {
           "fr": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/fr/configure.html",
           "it": "https://inseefrlab.github.io/docs.sspcloud.fr/docs/en/configure.html",
@@ -595,7 +595,7 @@
           "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
           "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md"
         },
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ocean-modelling/jupyterlab-autosubmit-bsc?autoLaunch=true"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ocean-modelling/jupyterlab-autosubmit-bsc?autoLaunch=true"
       },
       {
         "name": {
@@ -704,7 +704,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_ElNino»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FEl_Nino%2Finit_script.sh»&vault.secret=«Credentials»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_ElNino»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FEl_Nino%2Finit_script.sh»&vault.secret=«Credentials»"
       },
       {
         "name": {
@@ -729,7 +729,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_DataRetrieval»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FDataRetrieval%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_DataRetrieval»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FDataRetrieval%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
       },
       {
         "name": {
@@ -754,7 +754,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&vault.secret=«Credentials»&onyxia.friendlyName=«Demo_HighestWave»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FHighest_Waves%2Finit_script.sh»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&vault.secret=«Credentials»&onyxia.friendlyName=«Demo_HighestWave»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FHighest_Waves%2Finit_script.sh»"
       },
       {
         "name": {
@@ -779,7 +779,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_MHW»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FMarineHeatWaves%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_MHW»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FMarineHeatWaves%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
       },
       {
         "name": {
@@ -804,7 +804,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OceanBench»&vault.secret=«Credentials»&git.repository=«https%3A%2F%2Fgithub.com%2Fjejjohnson%2Foceanbench.git»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FOceanBench%2Finit_script.sh»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OceanBench»&vault.secret=«Credentials»&git.repository=«https%3A%2F%2Fgithub.com%2Fjejjohnson%2Foceanbench.git»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FOceanBench%2Finit_script.sh»"
       }
     ]
   },
@@ -864,7 +864,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20types-variables%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20types-variables%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Structures de donn\u00e9es 1 : listes et tuples",
@@ -884,7 +884,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures1%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures1%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Structures de donn\u00e9es 2 : dictionnaires et sets",
@@ -904,7 +904,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures2%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20data-structures2%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Tests",
@@ -924,7 +924,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20tests%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20tests%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Boucles",
@@ -944,7 +944,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20loops%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20loops%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Fonctions",
@@ -964,7 +964,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20functions%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20functions%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Notions de programmation orient\u00e9e objet",
@@ -984,7 +984,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20oop%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABfundamentals%20oop%C2%BB&security.allowlist.enabled=false"
           }
         ]
       },
@@ -1025,7 +1025,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20modules-files%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20modules-files%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Travailler avec des fichiers CSV et JSON",
@@ -1045,7 +1045,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20csv-json-files%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20csv-json-files%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Calcul num\u00e9rique avec NumPy",
@@ -1065,7 +1065,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20numpy%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%20numpy%C2%BB&security.allowlist.enabled=false"
           }
         ]
       },
@@ -1106,7 +1106,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABprojects%20puissance4%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-initiation%C2%BB&init.personalInit=%C2%ABhttps://raw.githubusercontent.com/InseeFrLab/formation-python-initiation/main/utils/init_jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABprojects%20puissance4%C2%BB&security.allowlist.enabled=false"
           }
         ]
       }
@@ -1159,7 +1159,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2001_numpy%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2001_numpy%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Introduction \u00e0 pandas",
@@ -1176,7 +1176,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002a_pandas_tutorial%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002a_pandas_tutorial%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Pratique de pandas: un exemple complet",
@@ -1193,7 +1193,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002b_pandas_TP%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2002b_pandas_TP%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Donn\u00e9es spatiales: d\u00e9couverte de geopandas",
@@ -1210,7 +1210,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2003_geopandas_tutorial%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2003_geopandas_tutorial%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Pratique de geopandas: donn\u00e9es v\u00e9lib",
@@ -1227,7 +1227,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2003_geopandas_TP%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2003_geopandas_TP%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Webscraping avec python",
@@ -1244,7 +1244,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004a_webscraping_TP%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004a_webscraping_TP%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Ma\u00eetriser les expressions r\u00e9guli\u00e8res",
@@ -1261,7 +1261,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004b_regex_TP%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004b_regex_TP%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Requ\u00eater via des API avec Python",
@@ -1278,7 +1278,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004c_API_TP%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2004c_API_TP%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Exercices suppl\u00e9mentaires de webscraping",
@@ -1295,7 +1295,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2006a_exo_supp_webscraping%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmanipulation%2006a_exo_supp_webscraping%C2%BB&security.allowlist.enabled=false"
           }
         ]
       },
@@ -1330,7 +1330,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20matplotlib%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20matplotlib%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "De belles cartes avec python: mise en pratique",
@@ -1347,7 +1347,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20maps%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABvisualisation%20maps%C2%BB&security.allowlist.enabled=false"
           }
         ]
       },
@@ -1382,7 +1382,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%200_preprocessing%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%200_preprocessing%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Evaluer la qualit\u00e9 d'un mod\u00e8le",
@@ -1399,7 +1399,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%201_modelevaluation%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%201_modelevaluation%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Classification: premier mod\u00e8le avec les SVM",
@@ -1416,7 +1416,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%202_SVM%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%202_SVM%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "R\u00e9gression: une introduction",
@@ -1433,7 +1433,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%203_regression%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%203_regression%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "S\u00e9lection de variables : une introduction",
@@ -1450,7 +1450,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%204_featureselection%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%204_featureselection%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Clustering",
@@ -1467,7 +1467,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%205_clustering%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%205_clustering%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Premier pas vers l'industrialisation avec les pipelines scikit",
@@ -1484,7 +1484,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%206_pipeline%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABmodelisation%206_pipeline%C2%BB&security.allowlist.enabled=false"
           }
         ]
       },
@@ -1519,7 +1519,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2001_intro%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2001_intro%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Nettoyer un texte: approche bag-of-words (exercices)",
@@ -1536,7 +1536,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2002_exoclean%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2002_exoclean%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Latent Dirichlet Allocation (LDA)",
@@ -1553,7 +1553,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2003_lda%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2003_lda%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "M\u00e9thodes de vectorisation : comptages et word embeddings",
@@ -1570,7 +1570,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2004_word2vec%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2004_word2vec%C2%BB&security.allowlist.enabled=false"
           },
           {
             "name": "Exercices suppl\u00e9mentaires",
@@ -1587,7 +1587,7 @@
             ],
             "category": "training courses with python",
             "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-            "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2005_exo_supp%C2%BB&security.allowlist.enabled=false"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABpython-datascience%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&init.personalInitArgs=%C2%ABNLP%2005_exo_supp%C2%BB&security.allowlist.enabled=false"
           }
         ]
       }
@@ -1613,7 +1613,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "sparkImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh&vault.secret=\u00abdiffusion/spark-lab/1-introduction\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab1_Intro_spark\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh&vault.secret=\u00abdiffusion/spark-lab/1-introduction\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab1_Intro_spark\u00bb"
       },
       {
         "name": "2. Datalake S3",
@@ -1630,7 +1630,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "minioImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/2-datalake\u00bb&vault.directory=\u00abtm8enk&onyxia.friendlyName=\u00ab2_Datalake\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/2-datalake\u00bb&vault.directory=\u00abtm8enk&onyxia.friendlyName=\u00ab2_Datalake\u00bb"
       },
       {
         "name": "2.2 Donn\u00e9es chiffr\u00e9es sur S3",
@@ -1647,7 +1647,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "vaultSvgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/2b-vault-s3-sseC\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab2b_vault-s3-sseC\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/2b-vault-s3-sseC\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab2b_vault-s3-sseC\u00bb"
       },
       {
         "name": "3. Spark et Kubernetes",
@@ -1664,7 +1664,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "kubImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/3-spark-kubernetes\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab3_Spark_Kubernetes\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/3-spark-kubernetes\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab3_Spark_Kubernetes\u00bb"
       },
       {
         "name": "3.2 Bases de spark",
@@ -1681,7 +1681,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "kubImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/3b-dynamic-allocation\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab3_bases_spark\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/3b-dynamic-allocation\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab3_bases_spark\u00bb"
       },
       {
         "name": "4. Le format de donn\u00e9es parquet",
@@ -1698,7 +1698,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "sparkImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/4-format-parquet\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab4_format_parquet\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/4-format-parquet\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab4_format_parquet\u00bb"
       },
       {
         "name": "5. Hive-metastore et metadonn\u00e9es",
@@ -1715,7 +1715,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "hiveSvgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/5-hive-metastore\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab5_hive_metastore\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/5-hive-metastore\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab5_hive_metastore\u00bb"
       },
       {
         "name": "6. Spark-thrift et redash",
@@ -1732,7 +1732,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "redashSvgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/6-spark-thrift-server\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab6_spark_thrift_server\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/6-spark-thrift-server\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab6_spark_thrift_server\u00bb"
       },
       {
         "name": "7. Spark streaming",
@@ -1749,7 +1749,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "sparkImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/7-spark-streaming\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab7_spark_streaming\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/7-spark-streaming\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab7_spark_streaming\u00bb"
       },
       {
         "name": "8. Spark Graphx",
@@ -1766,7 +1766,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "sparkImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/8-spark-graphx\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab8_spark_graphx\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/8-spark-graphx\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab8_spark_graphx\u00bb"
       },
       {
         "name": "9. Spark GPU",
@@ -1783,7 +1783,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "sparkImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark-gpu?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/9-spark-gpu\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab9_spark_gpu\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark-gpu?autoLaunch=true&init.personalInit=\u00abhttps://raw.githubusercontent.com/InseeFrLab/spark-formation/main/init-notebook.sh\u00bb&vault.secret=\u00abdiffusion/spark-lab/9-spark-gpu\u00bb&vault.directory=\u00abtm8enk\u00bb&onyxia.friendlyName=\u00ab9_spark_gpu\u00bb"
       },
       {
         "name": "10. SparkR",
@@ -1832,7 +1832,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "bookImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&init.personalInit=\u00abhttps://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installR.sh\u00bb&onyxia.friendlyName=\u00abText_Mining_R\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/rstudio?autoLaunch=true&init.personalInit=\u00abhttps://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installR.sh\u00bb&onyxia.friendlyName=\u00abText_Mining_R\u00bb"
       },
       {
         "name": "Analyse d'article avec Python",
@@ -1852,7 +1852,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installPy.sh\u00bb&onyxia.friendlyName=\u00abText_Mining_Python\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps://git.lab.sspcloud.fr/ssplab/formation_text_mining_public/-/raw/master/installPy.sh\u00bb&onyxia.friendlyName=\u00abText_Mining_Python\u00bb"
       },
       {
         "name": "Appariemment flou avec Elastic Search",
@@ -1872,7 +1872,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "elkImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABFuzzyMatchElasticInitiation%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Fhby7ih%2Fhandsonelastic%2F-%2Fraw%2Fmaster%2Finit.sh%C2%BB&resources.requests.memory=%C2%AB10512Mi%C2%BB&security.allowlist.enabled=false&persistence.enabled=false&discovery.hive=false"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=%C2%ABFuzzyMatchElasticInitiation%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Fhby7ih%2Fhandsonelastic%2F-%2Fraw%2Fmaster%2Finit.sh%C2%BB&resources.requests.memory=%C2%AB10512Mi%C2%BB&security.allowlist.enabled=false&persistence.enabled=false&discovery.hive=false"
       }
     ]
   },
@@ -1914,7 +1914,7 @@
         "category": "training courses in data science",
         "imageUrl": "btbImgUrl",
         "articleUrl": "https://inseefrlab.github.io/formation-r-lissage-spatial/tuto.html",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&service.image.custom.enabled=true&service.image.custom.version=\u00abinseefrlab%2Fformation-r-lissage-spatial%3Alatest\u00bb&init.personalInit=\u00abhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/rstudio?autoLaunch=true&service.image.custom.enabled=true&service.image.custom.version=\u00abinseefrlab%2Fformation-r-lissage-spatial%3Alatest\u00bb&init.personalInit=\u00abhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh\u00bb"
       },
       {
         "name": "Exercices",
@@ -1932,7 +1932,7 @@
         "category": "training courses in data science",
         "imageUrl": "btbImgUrl",
         "articleUrl": "https://inseefrlab.github.io/formation-r-lissage-spatial/exo.html",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&service.image.custom.enabled=true&service.image.custom.version=\u00abinseefrlab%2Fformation-r-lissage-spatial%3Alatest\u00bb&init.personalInit=\u00abhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh\u00bb"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/rstudio?autoLaunch=true&service.image.custom.enabled=true&service.image.custom.version=\u00abinseefrlab%2Fformation-r-lissage-spatial%3Alatest\u00bb&init.personalInit=\u00abhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fformation-r-lissage-spatial%2Fmain%2Futils%2Finit.sh\u00bb"
       }
     ]
   },
@@ -1965,7 +1965,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Fopenlab%2F-%2Fraw%2Fmain%2Finit-notebook.sh%C2%BB&onyxia.friendlyName=%C2%ABopenlab%C2%BB"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-pyspark?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Fopenlab%2F-%2Fraw%2Fmain%2Finit-notebook.sh%C2%BB&onyxia.friendlyName=%C2%ABopenlab%C2%BB"
       }
     ]
   },
@@ -1989,7 +1989,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "jupyterImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Falexisdondon%2Fformation%2F-%2Fraw%2Fmaster%2FTitanic-randomForest.sh%C2%BB&onyxia.friendlyName=%C2%ABRandom_forest%C2%BB"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Falexisdondon%2Fformation%2F-%2Fraw%2Fmaster%2FTitanic-randomForest.sh%C2%BB&onyxia.friendlyName=%C2%ABRandom_forest%C2%BB"
       }
     ]
   },
@@ -2009,7 +2009,7 @@
     "category": "training courses with R",
     "imageUrl": "utilitrImgUrl",
     "articleUrl": "https://www.book.utilitr.org/",
-    "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.9.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB"
+    "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/rstudio?autoLaunch=true&onyxia.friendlyName=%C2%AButilitr%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fminio.lab.sspcloud.fr%2Fpierrelamarche%2Futilitr%2Finit_utilitr.sh%C2%BB&service.image.version=%C2%ABinseefrlab%2Futilitr%3A0.9.0%C2%BB&vault.secret=%C2%AButilitr%2Futilitr%C2%BB"
   },
   {
     "name": "Polars",
@@ -2049,7 +2049,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "jupyterImgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fssphub%2Fmain%2Fcontent%2Fnotebooks%2Finit.sh\u00bb&init.personalInitArgs=\u00abpolars-tuto\u00bb",
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fssphub%2Fmain%2Fcontent%2Fnotebooks%2Finit.sh\u00bb&init.personalInitArgs=\u00abpolars-tuto\u00bb",
         "articleUrl": "https://ssphub.netlify.app/post/polars/"
       }
     ]
@@ -2091,7 +2091,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Foutils_du_datascientist.ipynb\u00bb&onyxia.friendlyName=\u00aboutils\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Foutils_du_datascientist.ipynb\u00bb&onyxia.friendlyName=\u00aboutils\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       },
       {
         "name": "Atelier 1",
@@ -2111,7 +2111,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_a_la_data_visualisation.ipynb\u00bb&onyxia.friendlyName=\u00abdata%20visualisation\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_a_la_data_visualisation.ipynb\u00bb&onyxia.friendlyName=\u00abdata%20visualisation\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       },
       {
         "name": "Atelier 2",
@@ -2131,7 +2131,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_au_NLP.ipynb\u00bb&onyxia.friendlyName=\u00abNLP\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_au_NLP.ipynb\u00bb&onyxia.friendlyName=\u00abNLP\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       },
       {
         "name": "Atelier 3",
@@ -2151,7 +2151,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_au_machine_learning.ipynb\u00bb&onyxia.friendlyName=\u00abML\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=\u00abhttps%3A%2F%2Fgit.lab.sspcloud.fr%2Ftm8enk%2Finit%2F-%2Fraw%2Fmain%2Finit.sh\u00bb&init.personalInitArgs=\u00abhttps%3A%2F%2Fgithub.com%2Fetalab-ia%2Fami-ia%20session2%2Fintroduction_au_machine_learning.ipynb\u00bb&onyxia.friendlyName=\u00abML\u00bb&git.enabled=false&s3.enabled=false&discovery.hive=false&discovery.mlflow=false&vault.enabled=false"
       }
     ]
   },
@@ -2176,7 +2176,7 @@
         "category": "best practices",
         "imageUrl": "gitImgUrl",
         "articleUrl": "https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/slides/light.html",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=false&git.cache=%C2%AB36000%C2%BB"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/rstudio?autoLaunch=false&git.cache=%C2%AB36000%C2%BB"
       },
       {
         "name": "Version compl\u00e8te",
@@ -2194,7 +2194,7 @@
         "category": "best practices",
         "imageUrl": "gitImgUrl",
         "articleUrl": "https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/slides/complete.html",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/rstudio?autoLaunch=false&git.cache=%C2%AB36000%C2%BB"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/rstudio?autoLaunch=false&git.cache=%C2%AB36000%C2%BB"
       }
     ]
   },
@@ -2287,7 +2287,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABrecordLinkage%C2%BB"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABrecordLinkage%C2%BB"
       },
       {
         "name": "Package dedupe (Python)",
@@ -2307,7 +2307,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "https://raw.githubusercontent.com/InseeFrLab/www.sspcloud.fr/main/src/assets/img/python.jpg",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABdedupe%C2%BB"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB&init.personalInitArgs=%C2%ABdedupe%C2%BB"
       },
       {
         "name": "Package reclin2 (R)",
@@ -2327,7 +2327,7 @@
         ],
         "category": "training courses in data science",
         "imageUrl": "rSvgUrl",
-        "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/ide/jupyter-r?autoLaunch=true&init.personalInitArgs=%C2%ABreclin2%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB"
+        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-r?autoLaunch=true&init.personalInitArgs=%C2%ABreclin2%C2%BB&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Fappariement%2Fmain%2Finit.sh%C2%BB"
       }
     ]
   },

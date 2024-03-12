@@ -6,7 +6,7 @@ To add a new tutorial, you'll only need to add a new entry in the root list of t
 
 ## Create an article
 
-An article is just a tile on the ["tutorials" interface](https://tutorials.digitaltwinocean.edito.eu/formation), that you can "Read" (by clicking on the "Read" button). It'll redirect you to the URL defined in the `articleUrl` section of the following JSON.
+An article is just a tile on the ["tutorials" interface](https://dive.edito.eu/training), that you can "Read" (by clicking on the "Read" button). It'll redirect you to the URL defined in the `articleUrl` section of the following JSON.
 
 A tile also has the ability to launch a pre-configured service directly in the datalab. You can "Run" this service (by clicking on the "Run" button). It'll redirect you to the URL defined int the `deploymentUrl` section of the following JSON, as if you launched a preconfigured service from "My Services". You should configure a specific service in the datalab, save its configuration,test it and then add its URL to your tuturial.
 ```json
@@ -44,7 +44,7 @@ A tile also has the ability to launch a pre-configured service directly in the d
         "it": "https://my/tutorial/it/page.html",
         "en": "https://my/tutorial/en/page.html",
     }
-    "deploymentUrl": "https://datalab.digitaltwinocean.edito.eu/launcher/"// the url of your pre-configured service
+    "deploymentUrl": "https://datalab.dive.edito.eu/launcher/"// the url of your pre-configured service
     // parts: [] 
 },
 ```
