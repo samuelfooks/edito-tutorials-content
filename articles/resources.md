@@ -1,21 +1,7 @@
 # Understanding EDITO resources
 
-This documentation provide detail on how the EDITO cloud infrastructure resources work.
+This documentation provides detail on how the EDITO cloud infrastructure resources work.
 It focuses on the behavior, current configuration and quotas for the use of both internal computing cluster and storage.
-
-## Introduction and context
-
-EDITO provides tool to explore and build the European digital twin of the Ocean.
-The main goal is to allow anyone to generate data that have never been generated before.
-To do so, it focused on three levels of interaction: the services, the processes and the data.
-All of them are backed by API and graphical web interfaces, can seamlessly interact internally or easily integrated with external resources.
-
-Services are long-life deployment serving interfaces (API or graphical web interfaces). They are data science tool services or end-user focus applications.
-Processes are finite-time computations. They took data as input and produce new data. They can be piped, scheduled, or trigger on-demand. They don't host a web server.
-Both service and process types can run on EDITO internal computing cluster, while enabling seamless run on external infrastructures is foreseen and currently evaluated.
-Data are both metadata and data assets (the actual data). Metadata can reference data assets hosted in EDITO internal storage or reference data assets hosted in external infrastructures.
-Metadata can also contain links to processes that generate the data assets.
-This enable (software-)asset materialization, i.e. the on-demand generation of assets that have been previously defined in metadata but never created.
 
 ## Computing cluster
 

@@ -1,35 +1,6 @@
 [
   {
     "name": {
-      "fr": "Ajouter votre propre tutoriel",
-      "it": "Aggiungi il tuo tutorial",
-      "en": "Add your own tutorial"
-    },
-    "abstract": {
-      "fr": "Comment contribuer et ajouter votre propre tutorial \u00e0 cette plateforme",
-      "it": "Come contribuire e aggiungere il tuo tutorial a questa piattaforma",
-      "en": "How to contribute and add your own tutorial to this platform"
-    },
-    "authors": [
-      "EDITO"
-    ],
-    "types": [
-      "Tutoriel"
-    ],
-    "tags": [
-      "discover",
-      "learn"
-    ],
-    "category": "discover EDITO",
-    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-    "articleUrl": {
-      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
-      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
-      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content"
-    }
-  },
-  {
-    "name": {
       "fr": "Découvrez la plateforme EDITO en vidéo",
       "it": "Scopri la piattaforma EDITO in video",
       "en": "Explore EDITO platform in video"
@@ -2332,6 +2303,40 @@
     ]
   },
   {
+    "name": {
+        "fr": "Comment commencer à contribuer ?",
+        "it": "Come iniziare a contribuire?",
+        "en": "How to start contributing?"
+    },
+    "abstract": {
+        "fr": "Découvrez l'architecture d'EDITO et comment vous pouvez contribuer au contenu d'EDITO",
+        "it": "Imparate a conoscere l'architettura di EDITO e scoprite come potete contribuire ai contenuti di EDITO",
+        "en": "Learn about EDITO architecture and discover how you can contribute to EDITO content"
+    },
+    "authors": [
+        "EDITO"
+    ],
+    "types": [
+          {
+            "fr": "Tutoriel",
+            "it": "Tutorial",
+            "en": "Tutorial"
+          }
+    ],
+    "tags": [
+        "discover",
+        "learn",
+        "consolidate"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md"
+    }
+  },
+  {
       "name": {
           "fr": "Ajoutez votre propre application web en tant que service",
           "it": "Aggiungere la propria applicazione web come servizio",
@@ -2353,7 +2358,6 @@
             }
       ],
       "tags": [
-          "discover",
           "learn",
           "consolidate"
       ],
@@ -2387,7 +2391,6 @@
           }
     ],
     "tags": [
-        "discover",
         "learn",
         "consolidate"
     ],
@@ -2397,6 +2400,35 @@
         "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/",
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/",
         "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/"
+    }
+  },
+  {
+    "name": {
+      "fr": "Ajouter votre propre tutoriel",
+      "it": "Aggiungi il tuo tutorial",
+      "en": "Add your own tutorial"
+    },
+    "abstract": {
+      "fr": "Comment contribuer et ajouter votre propre tutorial \u00e0 cette plateforme",
+      "it": "Come contribuire e aggiungere il tuo tutorial a questa piattaforma",
+      "en": "How to contribute and add your own tutorial to this platform"
+    },
+    "authors": [
+      "EDITO"
+    ],
+    "types": [
+      "Tutoriel"
+    ],
+    "tags": [
+      "consolidate",
+      "learn"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+      "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
+      "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
+      "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content"
     }
   },
   {
@@ -2426,43 +2458,11 @@
         "consolidate"
     ],
     "category": "Ocean modelling",
-    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "imageUrl": "https://sites.nemo-ocean.io/user-guide/_images/frothyuv.png",
     "articleUrl": {
         "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
         "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md"
-    }
-  },
-  {
-    "name": {
-        "fr": "Travailler en groupe",
-        "it": "Lavorare in gruppo",
-        "en": "Work in groups"
-    },
-    "abstract": {
-        "fr": "En savoir plus sur les projets de groupe sur EDITO",
-        "it": "Scopri il progetto di gruppo su EDITO",
-        "en": "Learn about group project on EDITO"
-    },
-    "authors": [
-        "EDITO"
-    ],
-    "types": [
-          {
-            "fr": "Tutoriel",
-            "it": "Tutorial",
-            "en": "Tutorial"
-          }
-    ],
-    "tags": [
-        "consolidate"
-    ],
-    "category": "discover EDITO",
-    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-    "articleUrl": {
-        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
-        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
-        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md"
     }
   },
   {
@@ -2495,6 +2495,38 @@
         "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md",
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md",
         "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/resources.md"
+    }
+  },
+  {
+    "name": {
+        "fr": "Travailler en groupe",
+        "it": "Lavorare in gruppo",
+        "en": "Work in groups"
+    },
+    "abstract": {
+        "fr": "En savoir plus sur les projets de groupe sur EDITO",
+        "it": "Scopri il progetto di gruppo su EDITO",
+        "en": "Learn about group project on EDITO"
+    },
+    "authors": [
+        "EDITO"
+    ],
+    "types": [
+          {
+            "fr": "Tutoriel",
+            "it": "Tutorial",
+            "en": "Tutorial"
+          }
+    ],
+    "tags": [
+        "consolidate"
+    ],
+    "category": "discover EDITO",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "articleUrl": {
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md"
     }
   }
 ]
