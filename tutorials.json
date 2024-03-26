@@ -2329,7 +2329,7 @@
         "consolidate"
     ],
     "category": "discover EDITO",
-    "imageUrl": "https://forge.nemo-ocean.eu/uploads/-/system/group/avatar/4/MSM_SSTglobe-300x300.png?width=48",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "articleUrl": {
         "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Contribution/how-to-start-contributing.md",
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/Contribution/how-to-start-contributing.md",
@@ -2458,7 +2458,7 @@
         "consolidate"
     ],
     "category": "Ocean modelling",
-    "imageUrl": "https://sites.nemo-ocean.io/user-guide/_images/frothyuv.png",
+    "imageUrl": "https://forge.nemo-ocean.eu/uploads/-/system/group/avatar/4/MSM_SSTglobe-300x300.png?width=48",
     "articleUrl": {
         "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
