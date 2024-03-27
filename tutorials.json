@@ -515,71 +515,42 @@
   },
   {
     "name": {
-      "fr": "Utiliser Autosubmit dans EDITO",
-      "it": "Utilizza Autosubmit in EDITO",
-      "en": "Use Autosubmit in EDITO"
+      "fr": "Découvrez le Virtual Ocean Model Lab",
+      "it": "Scoprite il Virtual Ocean Model Lab",
+      "en": "Discover Virtual Ocean Model Lab"
     },
     "abstract": {
-      "fr": "Comment se connecter aux HPC du Barcelona Super Computer",
-      "it": "Come connettersi all'HPC della Barcelona Super Computer",
-      "en": "How to connect to Barcelona Super Computer' HPCs"
+      "fr": "Accédez aux resources didacticielles pour utiliser les composants du Virtual Ocean Model Lab.",
+      "it": "Accesso alle risorse di esercitazione per l'utilizzo dei componenti del Virtual Ocean Model Lab.",
+      "en": "Access tutorial resources for using Virtual Ocean Model Lab components"
     },
     "authors": [
-      "EDITO",
-      "BSC"
+      "EDITO ModelLab"
     ],
     "types": [
       "Tutoriel"
     ],
     "tags": [
       "discover",
-      "learn"
+      "learn",
+      "consolidate"
     ],
     "category": "Ocean modelling",
-    "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "parts": [
       {
         "name": {
-          "fr": "Utiliser Autosubmit dans le Datalab",
-          "it": "Utilizza Autosubmit nel Datalab",
-          "en": "Use Autosubmit in the Datalab"
+          "fr": "Utiliser Autosubmit dans EDITO",
+          "it": "Utilizza Autosubmit in EDITO",
+          "en": "Use Autosubmit in EDITO"
         },
         "abstract": {
-          "fr": "Comment utiliser le service Jupyterlab-autosubmit-bsc du catalogue de services",
-          "it": "Come utilizzare il servizio Jupyterlab-autosubmit-bsc dal catalogo dei servizi",
-          "en": "How to use the Jupyterlab-autosubmit-bsc service from the Service Catalog"
+          "fr": "Comment se connecter aux HPC du Barcelona Super Computer",
+          "it": "Come connettersi all'HPC della Barcelona Super Computer",
+          "en": "How to connect to Barcelona Super Computer' HPCs"
         },
         "authors": [
-          "EDITO"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "discover",
-          "learn"
-        ],
-        "category": "Ocean modelling",
-        "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
-        "articleUrl": {
-          "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
-          "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
-          "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md"
-        },
-        "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ocean-modelling/jupyterlab-autosubmit-bsc?autoLaunch=true"
-      },
-      {
-        "name": {
-          "fr": "Documentation d'Autosubmit",
-          "it": "Documentazione di Autosubmit",
-          "en": "Autosubmit documentation"
-        },
-        "abstract": {
-          "fr": "Documentation officielle d'Autosubmit",
-          "it": "Documentazione ufficiale di Autosubmit",
-          "en": "Autosubmit official documentation"
-        },
-        "authors": [
+          "EDITO",
           "BSC"
         ],
         "types": [
@@ -591,56 +562,113 @@
         ],
         "category": "Ocean modelling",
         "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
-        "articleUrl": {
-          "fr": "https://autosubmit.readthedocs.io/en/master/",
-          "it": "https://autosubmit.readthedocs.io/en/master/",
-          "en": "https://autosubmit.readthedocs.io/en/master/"
-        }
-      },
-      {
-        "name": {
-          "fr": "Formation Autosubmit pour EDITO",
-          "it": "Formazione Autosubmit per EDITO",
-          "en": "Autosubmit EDITO training"
-        },
-        "abstract": {
-          "fr": "Matériel de formation pour la réunion EDITO Technical Co-design du VOML",
-          "it": "Materiale formativo per la riunione EDITO Technical Co-design di VOML",
-          "en": "Training material for EDITO Technical Co-Design of VOML meeting"
-        },
-        "authors": [
-          "BSC"
-        ],
-        "types": [
-          "Tutoriel"
-        ],
-        "tags": [
-          "discover",
-          "learn"
-        ],
-        "category": "Ocean modelling",
-        "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
-        "articleUrl": {
-          "fr": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",
-          "it": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",
-          "en": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training"
-        }
+        "parts": [
+          {
+            "name": {
+              "fr": "Utiliser Autosubmit dans le Datalab",
+              "it": "Utilizza Autosubmit nel Datalab",
+              "en": "Use Autosubmit in the Datalab"
+            },
+            "abstract": {
+              "fr": "Comment utiliser le service Jupyterlab-autosubmit-bsc du catalogue de services",
+              "it": "Come utilizzare il servizio Jupyterlab-autosubmit-bsc dal catalogo dei servizi",
+              "en": "How to use the Jupyterlab-autosubmit-bsc service from the Service Catalog"
+            },
+            "authors": [
+              "EDITO"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "Ocean modelling",
+            "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
+            "articleUrl": {
+              "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
+              "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md",
+              "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/service-helm-charts/-/blob/main/ocean-modelling/jupyterlab-autosubmit-bsc/Jupyterlab-autosubmit-bsc.md"
+            },
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ocean-modelling/jupyterlab-autosubmit-bsc?autoLaunch=true"
+          },
+          {
+            "name": {
+              "fr": "Documentation d'Autosubmit",
+              "it": "Documentazione di Autosubmit",
+              "en": "Autosubmit documentation"
+            },
+            "abstract": {
+              "fr": "Documentation officielle d'Autosubmit",
+              "it": "Documentazione ufficiale di Autosubmit",
+              "en": "Autosubmit official documentation"
+            },
+            "authors": [
+              "BSC"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "Ocean modelling",
+            "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
+            "articleUrl": {
+              "fr": "https://autosubmit.readthedocs.io/en/master/",
+              "it": "https://autosubmit.readthedocs.io/en/master/",
+              "en": "https://autosubmit.readthedocs.io/en/master/"
+            }
+          },
+          {
+            "name": {
+              "fr": "Formation Autosubmit pour EDITO",
+              "it": "Formazione Autosubmit per EDITO",
+              "en": "Autosubmit EDITO training"
+            },
+            "abstract": {
+              "fr": "Matériel de formation pour la réunion EDITO Technical Co-design du VOML",
+              "it": "Materiale formativo per la riunione EDITO Technical Co-design di VOML",
+              "en": "Training material for EDITO Technical Co-Design of VOML meeting"
+            },
+            "authors": [
+              "BSC"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "Ocean modelling",
+            "imageUrl": "https://www.bsc.es/sites/default/files/public/styles/bscw2_-_simple_crop_style/public/bscw2/content/software-app/logo/autosubmit.jpg?itok=gk3EZ07-&sc=be9a561a6fda88143320162487f15d76",
+            "articleUrl": {
+              "fr": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",
+              "it": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training",
+              "en": "https://earth.bsc.es/gitlab/dbeltran/Autosubmit-Edito-Training"
+            }
+          }
+        ]
       }
     ]
   },
+  
   {
     "name": {
-      "fr": "Supports pour le workshop EDITO Novembre 2023",
-      "it": "Materiali del workshop EDITO Novembre 2023",
-      "en": "Workshop material for EDITO November 2023"
+      "fr": "Tutoriels d'analyse de données et de modélisation océaniques",
+      "it": "Esercitazioni sull'analisi e la modellazione dei dati oceanici",
+      "en": "Ocean data analysis and modelling tutorials"
     },
     "abstract": {
-      "fr": "Vous trouverez ici divers exemples de codes et notebooks a tester sur la plateforme",
-      "it": "Ecco alcuni esempi di codici e taccuini da testare sulla piattaforma",
-      "en": "Here are some examples of codes and notebooks to test on the platform"
+      "fr": "Vous trouverez ici plusieurs exemples d'utilisation de la plate-forme EDITO pour exécuter des outils d'analyse des données et de modélisation.",
+      "it": "Troverete diversi esempi di utilizzo della Piattaforma EDITO per l'esecuzione di strumenti di analisi dei dati e modellazione.",
+      "en": "You will find there several examples of how to use EDITO Platform to run data analysis and modelling tools"
     },
     "authors": [
-      "EDITO"
+      "EDITO ModelLab"
     ],
     "types": [
       "Tutoriel"
@@ -664,7 +692,7 @@
           "en": "Application for reconstructing and displaying the multivariate El-Nino index from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) on the Nino 3.4 box."
         },
         "authors": [
-          "EDITO"
+          "EDITO ModelLab"
             ],
             "types": [
               "Tutoriel"
@@ -675,8 +703,8 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_ElNino»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FEl_Nino%2Finit_script.sh»&vault.secret=«Credentials»"
-      },
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_ElNino»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-model-lab%2Ftutorials%2F-%2Fraw%2Fmaster%2Fsources%2FEl_Nino%2Finit_script.sh»&vault.secret=«Credentials»"
+          },
       {
         "name": {
           "fr": "Récupérer des données sur les Marine and Climate Data Stores",
@@ -689,7 +717,7 @@
           "en": "Download data from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) and ERA5"
         },
         "authors": [
-          "EDITO"
+          "EDITO ModelLab"
             ],
             "types": [
               "Tutoriel"
@@ -700,7 +728,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_DataRetrieval»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FDataRetrieval%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_DataRetrieval»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-model-lab%2Ftutorials%2F-%2Fraw%2Fmaster%2Fsources%2FDataRetrieval%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
       },
       {
         "name": {
@@ -714,7 +742,7 @@
           "en": "Recuperation and visualisation of the highest waves over 26 years of Global Reanalysis WAVERYS (GLOBAL_MULTIYEAR_WAV_001_032)"
         },
         "authors": [
-          "EDITO"
+          "EDITO ModelLab"
             ],
             "types": [
               "Tutoriel"
@@ -725,7 +753,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&vault.secret=«Credentials»&onyxia.friendlyName=«Demo_HighestWave»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FHighest_Waves%2Finit_script.sh»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&vault.secret=«Credentials»&onyxia.friendlyName=«Demo_HighestWave»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-model-lab%2Ftutorials%2F-%2Fraw%2Fmaster%2Fsources%2FHighest_Waves%2Finit_script.sh»"
       },
       {
         "name": {
@@ -739,7 +767,7 @@
           "en": "Calculation and detection of heat anomalies in an area delimited by a Shapefile in relation to climatological statistics taken from the GLORYS12 Global Reanalysis (GLOBAL_MULTIYEAR_PHY_001_030) and calculated on the fly over the period 1993-2016"
         },
         "authors": [
-          "EDITO"
+          "EDITO ModelLab"
             ],
             "types": [
               "Tutoriel"
@@ -750,7 +778,7 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_MHW»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FMarineHeatWaves%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_MHW»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-model-lab%2Ftutorials%2F-%2Fraw%2Fmaster%2Fsources%2FMarineHeatWaves%2Finit_script.sh»&onyxia.share=true&vault.secret=«Credentials»"
       },
       {
         "name": {
@@ -764,7 +792,7 @@
           "en": "Examples of the use of the OceanBench tool applied to oceanographic data"
         },
         "authors": [
-          "EDITO"
+          "EDITO ModelLab"
             ],
             "types": [
               "Tutoriel"
@@ -775,8 +803,94 @@
             ],
             "category": "Ocean modelling",
             "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
-            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OceanBench»&vault.secret=«Credentials»&git.repository=«https%3A%2F%2Fgithub.com%2Fjejjohnson%2Foceanbench.git»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-infra%2Fedito-tutorials-content%2F-%2Fraw%2Fmaster%2Fsources%2FOceanBench%2Finit_script.sh»"
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OceanBench»&vault.secret=«Credentials»&git.repository=«https%3A%2F%2Fgithub.com%2Fjejjohnson%2Foceanbench.git»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-model-lab%2Ftutorials%2F-%2Fraw%2Fmaster%2Fsources%2FOceanBench%2Finit_script.sh»"
       }
+    ]
+  },
+  {
+    "name": {
+      "fr": "Services de la Core Model Suite EDITO ",
+      "it": "Servizi della Core Model Suite EDITO",
+      "en": "EDITO Core Model Suite services"
+    },
+    "abstract": {
+      "fr": "Exemples de services pour découvrir la Core Model Suite EDITO.",
+      "it": "Servizi di esempio per la scoperta della EDITO Core Model Suite.",
+      "en": "Example services for discovering the EDITO Core Model Suite."
+    },
+    "authors": [
+      "EDITO ModelLab"
+    ],
+    "types": [
+      "Tutoriel"
+    ],
+    "tags": [
+      "discover",
+      "learn",
+      "consolidate"
+    ],
+    "category": "Ocean modelling",
+    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "parts": [
+      {
+        "name": {
+            "fr": "Lancer NEMO sur EDITO",
+            "it": "Eseguire NEMO su EDITO",
+            "en": "Run NEMO on EDITO"
+        },
+        "abstract": {
+            "fr": "Apprenez à lancer NEMO sur EDITO",
+            "it": "Imparare a eseguire NEMO su EDITO",
+            "en": "Learn how to Run NEMO on EDITO"
+        },
+        "authors": [
+            "EDITO"
+        ],
+        "types": [
+              {
+                "fr": "Tutoriel",
+                "it": "Tutorial",
+                "en": "Tutorial"
+              }
+        ],
+        "tags": [
+            "discover",
+            "learn",
+            "consolidate"
+        ],
+        "category": "Ocean modelling",
+        "imageUrl": "https://sites.nemo-ocean.io/user-guide/_images/frothyuv.png",
+        "articleUrl": {
+            "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
+            "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
+            "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md"
+        }
+      },
+      {
+        "name": {
+          "fr": "Lancer des simulations OpenDrift",
+          "it": "Avviare simulazioni OpenDrift",
+          "en": "Run OpenDrift simulations"
+        },
+        "abstract": {
+          "fr": "Lancer des simulations de dérive lagrangienne avec OpenDrift",
+          "it": "Avviare simulazioni di deriva lagrangiana con OpenDrift",
+          "en": "Run lagrangian drift simulations with OpenDrift"
+        },
+        "authors": [
+          "ACCIBERG"
+            ],
+            "types": [
+              "Tutoriel"
+            ],
+            "tags": [
+              "discover",
+              "learn"
+            ],
+            "category": "Ocean modelling",
+            "imageUrl": "https://opendrift.github.io/_static/opendrift_logo.png",
+            "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/jupyter-python?autoLaunch=true&onyxia.friendlyName=«Demo_OpenDrift»&git.branch=«master»&init.personalInit=«https%3A%2F%2Fgitlab.mercator-ocean.fr%2Fpub%2Fedito-model-lab%2Ftutorials%2F-%2Fraw%2Fmaster%2Fsources%2FOpenDrift%2Finit.sh»&onyxia.share=true&vault.secret=«Credentials»"
+          }
     ]
   },
   {
