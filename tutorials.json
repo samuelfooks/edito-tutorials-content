@@ -517,7 +517,7 @@
     "name": {
       "fr": "Découvrez le Virtual Ocean Model Lab",
       "it": "Scoprite il Virtual Ocean Model Lab",
-      "en": "Discover Virtual Ocean Model Lab"
+      "en": "Discover the Virtual Ocean Model Lab"
     },
     "abstract": {
       "fr": "Accédez aux resources didacticielles pour utiliser les composants du Virtual Ocean Model Lab.",
@@ -655,7 +655,6 @@
       }
     ]
   },
-  
   {
     "name": {
       "fr": "Tutoriels d'analyse de données et de modélisation océaniques",
@@ -830,7 +829,7 @@
       "consolidate"
     ],
     "category": "Ocean modelling",
-    "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+    "imageUrl": "https://forge.nemo-ocean.eu/uploads/-/system/group/avatar/4/MSM_SSTglobe-300x300.png?width=48",
     "parts": [
       {
         "name": {
@@ -859,7 +858,7 @@
             "consolidate"
         ],
         "category": "Ocean modelling",
-        "imageUrl": "https://sites.nemo-ocean.io/user-guide/_images/frothyuv.png",
+        "imageUrl": "https://forge.nemo-ocean.eu/uploads/-/system/group/avatar/4/MSM_SSTglobe-300x300.png?width=48",
         "articleUrl": {
             "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
             "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
@@ -2543,40 +2542,6 @@
       "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
       "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content",
       "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content"
-    }
-  },
-  {
-    "name": {
-        "fr": "Lancer NEMO sur EDITO",
-        "it": "Eseguire NEMO su EDITO",
-        "en": "Run NEMO on EDITO"
-    },
-    "abstract": {
-        "fr": "Apprenez à lancer NEMO sur EDITO",
-        "it": "Imparare a eseguire NEMO su EDITO",
-        "en": "Learn how to Run NEMO on EDITO"
-    },
-    "authors": [
-        "EDITO"
-    ],
-    "types": [
-          {
-            "fr": "Tutoriel",
-            "it": "Tutorial",
-            "en": "Tutorial"
-          }
-    ],
-    "tags": [
-        "discover",
-        "learn",
-        "consolidate"
-    ],
-    "category": "Ocean modelling",
-    "imageUrl": "https://forge.nemo-ocean.eu/uploads/-/system/group/avatar/4/MSM_SSTglobe-300x300.png?width=48",
-    "articleUrl": {
-        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
-        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md",
-        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/DemoNEMO/demoNEMO.md"
     }
   },
   {
