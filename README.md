@@ -32,10 +32,10 @@ A tile also has the ability to launch a pre-configured service directly in the d
             "en": "Tutorial"
           }
     ],
-    "tags": [
-        "discover", // A list of tags. For now, there's only 3 available tags you can choose: "discover", "learn" and "consolidate"
-        "learn",
-        "consolidate"
+    "tags": [ // A list of tags. For now, there's only 3 available tags you can choose: "discover", "learn" and "consolidate"
+        "explore", // If your tutorial does not require user authentication
+        "create", // If your tutorial allow the user to create content on EDITO
+        "contribute" // If your tutorial allow the user to build and publish content on EDITO
     ],
     "category": "discover EDITO",  // For now, you'll only be able to choose between:  "Ocean modelling", "Ocean data quality", "Data visualization", "What-If applications", "Focus applications", "discover EDITO", "training courses in data science", "training courses with python", "training courses with R" and "best practices",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
