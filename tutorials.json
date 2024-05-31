@@ -2472,9 +2472,9 @@
     "category": "discover EDITO",
     "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
     "articleUrl": {
-        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/",
-        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/",
-        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/ocean-processes/"
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/process-playground/#process-helm-charts-playground",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/process-playground/#process-helm-charts-playground",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/process-playground/#process-helm-charts-playground"
     }
   },
   {
