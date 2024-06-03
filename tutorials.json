@@ -2446,6 +2446,39 @@
       }
   },
   {
+      "name": {
+          "fr": "Guide de style pour votre service",
+          "it": "Guida allo stile per il vostro servizio",
+          "en": "Style guide for your service"
+      },
+      "abstract": {
+          "fr": "Découvrez les ressources documentaires pour créditer EDITO dans votre service innovant",
+          "it": "Scoprite il materiale di risorse per accreditare EDITO nel vostro servizio innovativo",
+          "en": "Discover the resource materials to credit EDITO in your innovative service"
+      },
+      "authors": [
+          "EDITO"
+      ],
+      "types": [
+            {
+              "fr": "Tutoriel",
+              "it": "Tutorial",
+              "en": "Tutorial"
+            }
+      ],
+      "tags": [
+          "create",
+          "contribute"
+      ],
+      "category": "discover EDITO",
+      "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+      "articleUrl": {
+        "fr": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/service-brand-style-guide.md",
+        "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/service-brand-style-guide.md",
+        "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/service-brand-style-guide.md"
+      }
+  },
+  {
     "name": {
         "fr": "Ajoutez votre propre calcul en tant que process",
         "it": "Aggiungere il proprio calcolo come process",
