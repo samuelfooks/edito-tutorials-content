@@ -2603,5 +2603,50 @@
         "it": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md",
         "en": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/group-projects.md"
     }
-  }
+  },
+{
+  "name": {
+      "en": "Convert Common Geospatial Data Structures into Zarr"
+  },
+  "abstract": {
+      "en": "This is a tutorial divided into a few parts demonstrating how to convert common geospatial data structures into an Analyis Ready Cloud Optimized format called Zarr."
+  },
+  "authors": [
+      "Samuel Fooks", "Flanders Marine Institute"
+  ],
+  "types": [
+      {
+          "en": "Tutorial"
+      }
+  ],
+  "tags": [
+      "explore",
+      "create",
+      "contribute"
+  ],
+  "category": "Data visualization",
+  "imageUrl": "https://www.edito.eu/wp-content/uploads/2023/09/favicon.png",
+  "articleUrl": {
+      "en": "https://github.com/yourusername/yourrepository"
+  },
+  "deploymentUrl": "https://datalab.dive.edito.eu/launcher/ide/vscode-python?version=1.11.35&git.branch=%C2%ABmain%C2%BB&git.email=%C2%AB%C2%BB&git.name=%C2%AB%C2%BB&git.repository=%C2%ABhttps%3A%2F%2Fgithub.com%2Fyourusername%2Fyourrepository%C2%BB",
+  "parts": [
+      {
+          "name": "Install required dependencies",
+          "description": "pip install -r requirements.txt"
+      },
+      {
+          "name": "geodatabase_to_zarr",
+          "description": "Converting Geodatabases to Zarr using Fiona, Geopandas, Rasterio and Zarr. Comparing the converted dataset to the original."
+      },
+      {
+          "name": "shape_to_zarr",
+          "description": "Converting Shape files to Zarr using Fiona, Geopandas, Rasterio and Zarr. There is a Dockerfile included with the script, if you clone this repository locally and not on edito you can run the docker scripts and create your own zarr files or deploy it as a conversion process yourself."
+      },
+      {
+          "name": "tif_to_zarr",
+          "description": "Converting Geotiff files to Zarr using Rasterio, Zarr. Comparing the converted dataset to the original. There is a Dockerfile included with the script, if you clone this repository locally and not on edito you can run the docker scripts and create your own zarr files or deploy it as a conversion process yourself."
+      }
+  ]
+}
 ]
